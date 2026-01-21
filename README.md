@@ -63,6 +63,27 @@
 
 ---
 
+## ❤️ 特別鳴謝 (Credits)
+
+本項目的數據來源主要基於以下開源項目與維護者的大力奉獻，在此致以最誠摯的謝意：
+
+*   **imDazui**: [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
+*   **fanmingming**: [live](https://github.com/fanmingming/live)
+*   **Guovin**: [TV](https://github.com/Guovin/TV)
+*   **YueChan**: [Live](https://github.com/YueChan/Live)
+*   **Kimentanm**: [APTV](https://github.com/Kimentanm/aptv)
+*   **yuanzl77**: [IPTV](https://github.com/yuanzl77/IPTV)
+*   **iptv-org**: [IPTV Collection](https://github.com/iptv-org/iptv)
+*   **joevess**: [IPTV](https://github.com/joevess/IPTV)
+*   **YanG-1989**: [m3u](https://github.com/YanG-1989/m3u)
+*   **hujingguang**: [ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)
+*   **MercuryZz**: [IPTVN](https://github.com/MercuryZz/IPTVN)
+*   **vbskycn**: [iptv](https://github.com/vbskycn/iptv)
+*   **suxuang**: [myIPTV](https://github.com/suxuang/myIPTV)
+*   **Free-TV**, **epg.pw** 以及所有無私維護直播源的開發者們。
+
+---
+
 ## ⚠️ 免責聲明 (Disclaimer)
 
 1.  **僅供學習交流**: 本項目僅是一個**技術研究項目**，用於測試 Python 爬蟲與 GitHub Actions 的自動化邏輯。
