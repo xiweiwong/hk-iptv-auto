@@ -113,6 +113,5 @@
     "http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-07-24",
     "http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-07-24",
     "http://171.108.239.99:8181/tsfile/live/1023_1.m3u8?key=txiptv": "2026-07-24",
-    "http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-07-24",
-    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-07-30"
+    "http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-07-24"
 }
