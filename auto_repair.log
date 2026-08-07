@@ -1,82 +1,78 @@
 ✅ [數據讀取] 已從 sources.txt 加載 138 個源
 =================================================================
-📅 更新時間：0806 21:54 | 模式：FULL_SCAN
+📅 更新時間：0807 10:25 | 模式：FULL_SCAN
 =================================================================
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/index.m3u8 (HTTPConnectionPool(host='2409:8087:3869:8021:1001::e5', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221225642/2/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3869:8021:1001::e5', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8 (HTTPConnectionPool(host='2409:8087:3869:8021:1001::e5', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221225501/2/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3869:8021:1001::e5', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8? (HTTPConnectionPool(host='2409:8087:5e00:24::1e', port=6060): Max retries exceeded with url: /200000001898/460000089800010011/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:5e00:24::1e', port=6060): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~2MGyx659D_aaDPP0qt3NgA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y (HTTPConnectionPool(host='2409:8087:4c0a:22:1::11', port=6410): Max retries exceeded with url: /170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y (Caused by NewConnectionError("HTTPConnection(host='2409:8087:4c0a:22:1::11', port=6410): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::7005', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::7005', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::7005', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::7005', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y (HTTPConnectionPool(host='2409:8087:4c0a:22:1::11', port=6410): Max retries exceeded with url: /170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y (Caused by NewConnectionError("HTTPConnection(host='2409:8087:4c0a:22:1::11', port=6410): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8? (HTTPConnectionPool(host='2409:8087:5e00:24::1e', port=6060): Max retries exceeded with url: /200000001898/460000089800010011/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:5e00:24::1e', port=6060): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8 (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8? (HTTPConnectionPool(host='2409:8087:1a01:df::4077', port=80): Max retries exceeded with url: /ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:1a01:df::4077', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8 (HTTPConnectionPool(host='2409:8087:5e00:24::1e', port=6060): Max retries exceeded with url: /000000001000/1000000002000011619/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:5e00:24::1e', port=6060): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (HTTPConnectionPool(host='2409:8087:3428:20:500::1009', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3428:20:500::1009', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (HTTPConnectionPool(host='2409:8087:3428:20:500::100f', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3428:20:500::100f', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-💀 報告: http://dd.ddzb.fun/php/migu.php?id=dwqws
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ❌ 錯誤: http://120.238.94.10:9901/tsfile/live/1009_1.m3u8 (HTTPConnectionPool(host='120.238.94.10', port=9901): Max retries exceeded with url: /tsfile/live/1009_1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='120.238.94.10', port=9901): Failed to establish a new connection: [Errno 111] Connection refused")))
-❌ 錯誤: http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive (HTTPConnectionPool(host='3501776.xyz', port=35455): Max retries exceeded with url: /itv/1000000002000011619.m3u8?cdn=ystenlive (Caused by NewConnectionError("HTTPConnection(host='3501776.xyz', port=35455): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive (HTTPConnectionPool(host='home.wwang.pw', port=35455): Max retries exceeded with url: /itv/2000000003000000033.m3u8?cdn=hnbblive (Caused by NewConnectionError("HTTPConnection(host='home.wwang.pw', port=35455): Failed to establish a new connection: [Errno 111] Connection refused")))
-❌ 錯誤: http://home.wwang.pw:35455/itv/2000000003000000045.m3u8?cdn=hnbblive (HTTPConnectionPool(host='home.wwang.pw', port=35455): Max retries exceeded with url: /itv/2000000003000000045.m3u8?cdn=hnbblive (Caused by NewConnectionError("HTTPConnection(host='home.wwang.pw', port=35455): Failed to establish a new connection: [Errno 111] Connection refused")))
 💀 報告: http://cdn2.163189.xyz/live/gdzj/stream.m3u8
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111 (HTTPConnectionPool(host='qjrhc.jydjd.top', port=2911): Max retries exceeded with url: /udp/224.1.100.153:11111 (Caused by NewConnectionError("HTTPConnection(host='qjrhc.jydjd.top', port=2911): Failed to establish a new connection: [Errno 111] Connection refused")))
-✅ 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
-   ┣ [源頭掃描] 總台數: 13
-   ┣ [網絡狀況] 連通數: 2 | 唔通數: 11
-   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv (HTTPConnectionPool(host='www.zzlag.top', port=9087): Max retries exceeded with url: /tsfile/live/1041_1.m3u8?key=txiptv (Caused by NameResolutionError("HTTPConnection(host='www.zzlag.top', port=9087): Failed to resolve 'www.zzlag.top' ([Errno -2] Name or service not known)")))
-✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
-   ┣ [源頭掃描] 總台數: 19
-   ┣ [網絡狀況] 連通數: 4 | 唔通數: 15
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
+❌ 錯誤: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8 (HTTPConnectionPool(host='2409:8087:5e00:24::1e', port=6060): Max retries exceeded with url: /000000001000/1000000002000011619/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:5e00:24::1e', port=6060): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+💀 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
    ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 1 | 唔通數: 4
-   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+❌ 錯誤: http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive (HTTPConnectionPool(host='home.wwang.pw', port=35455): Max retries exceeded with url: /itv/2000000003000000033.m3u8?cdn=hnbblive (Caused by NewConnectionError("HTTPConnection(host='home.wwang.pw', port=35455): Failed to establish a new connection: [Errno 111] Connection refused")))
+💀 報告: http://gmxw.7766.org:808/hls/83/index.m3u8
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://183.11.239.36:808/hls/132/index.m3u8
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://home.wwang.pw:35455/itv/2000000003000000045.m3u8?cdn=hnbblive (HTTPConnectionPool(host='home.wwang.pw', port=35455): Max retries exceeded with url: /itv/2000000003000000045.m3u8?cdn=hnbblive (Caused by NewConnectionError("HTTPConnection(host='home.wwang.pw', port=35455): Failed to establish a new connection: [Errno 111] Connection refused")))
+❌ 錯誤: http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111 (HTTPConnectionPool(host='qjrhc.jydjd.top', port=2911): Max retries exceeded with url: /udp/224.1.100.153:11111 (Caused by NewConnectionError("HTTPConnection(host='qjrhc.jydjd.top', port=2911): Failed to establish a new connection: [Errno 111] Connection refused")))
+❌ 錯誤: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (HTTPConnectionPool(host='2409:8087:3428:20:500::1009', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3428:20:500::1009', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (HTTPConnectionPool(host='2409:8087:3428:20:500::100f', port=6610): Max retries exceeded with url: /PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:3428:20:500::100f', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive (HTTPConnectionPool(host='3501776.xyz', port=35455): Max retries exceeded with url: /itv/1000000002000011619.m3u8?cdn=ystenlive (Caused by NewConnectionError("HTTPConnection(host='3501776.xyz', port=35455): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+💀 報告: http://dd.ddzb.fun/php/migu.php?id=dwqws
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74 (HTTPConnectionPool(host='50.7.234.10', port=8278): Max retries exceeded with url: /tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74 (Caused by NewConnectionError("HTTPConnection(host='50.7.234.10', port=8278): Failed to establish a new connection: [Errno 111] Connection refused")))
-💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+❌ 錯誤: http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv (HTTPConnectionPool(host='www.zzlag.top', port=9087): Max retries exceeded with url: /tsfile/live/1041_1.m3u8?key=txiptv (Caused by NameResolutionError("HTTPConnection(host='www.zzlag.top', port=9087): Failed to resolve 'www.zzlag.top' ([Errno -2] Name or service not known)")))
+💀 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
+   ┣ [源頭掃描] 總台數: 13
+   ┣ [網絡狀況] 連通數: 1 | 唔通數: 12
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8532/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
 ❌ 錯誤: http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8 (('Connection aborted.', BadStatusLine('HTTP/1.1 4030 Inner Forbidden\r\n')))
+💀 報告: http://gmxw.7766.org:808/hls/132/index.m3u8
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 💀 報告: http://r.jdshipin.com/cCCzW
    ┣ [源頭掃描] 總台數: 0
+💀 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┣ [源頭掃描] 總台數: 19
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 2 | 唔通數: 17
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ❌ 錯誤: http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8 (('Connection aborted.', BadStatusLine('HTTP/1.1 4030 Inner Forbidden\r\n')))
+❌ 錯誤: http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74 (HTTPConnectionPool(host='50.7.234.10', port=8278): Max retries exceeded with url: /tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74 (Caused by NewConnectionError("HTTPConnection(host='50.7.234.10', port=8278): Failed to establish a new connection: [Errno 111] Connection refused")))
+❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8532/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
 💀 報告: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
@@ -84,7 +80,15 @@
    ┣ [源頭掃描] 總台數: 10
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 10
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+💀 報告: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
@@ -92,64 +96,69 @@
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8 (HTTPConnectionPool(host='grandprix2023.asuscomm.com', port=8889): Max retries exceeded with url: /bysid/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='grandprix2023.asuscomm.com', port=8889): Failed to establish a new connection: [Errno 111] Connection refused")))
-💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts (HTTPConnectionPool(host='zw9999.cnstream.top', port=80): Max retries exceeded with url: /play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts (Caused by NameResolutionError("HTTPConnection(host='zw9999.cnstream.top', port=80): Failed to resolve 'zw9999.cnstream.top' ([Errno -2] Name or service not known)")))
-💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://183.11.239.36:808/hls/132/index.m3u8 (HTTPConnectionPool(host='183.11.239.36', port=808): Max retries exceeded with url: /hls/132/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='183.11.239.36', port=808) at 0x7f0b386abdf0>, 'Connection to 183.11.239.36 timed out. (connect timeout=10)')))
-❌ 錯誤: http://113.109.248.232:9999/udp/239.77.0.1:5146 (HTTPConnectionPool(host='113.109.248.232', port=9999): Max retries exceeded with url: /udp/239.77.0.1:5146 (Caused by ConnectTimeoutError(<HTTPConnection(host='113.109.248.232', port=9999) at 0x7f0b386ab9d0>, 'Connection to 113.109.248.232 timed out. (connect timeout=10)')))
-💀 報告: http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-❌ 錯誤: http://123.254.110.101:5000/2000000003000000033/hnbblive/index.m3u8 (HTTPConnectionPool(host='123.254.110.101', port=5000): Max retries exceeded with url: /2000000003000000033/hnbblive/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.254.110.101', port=5000) at 0x7f0b386a8d90>, 'Connection to 123.254.110.101 timed out. (connect timeout=10)')))
-❌ 錯誤: http://119.122.214.182:4022/udp/239.77.0.1:5146 (HTTPConnectionPool(host='119.122.214.182', port=4022): Max retries exceeded with url: /udp/239.77.0.1:5146 (Caused by ConnectTimeoutError(<HTTPConnection(host='119.122.214.182', port=4022) at 0x7f0b386ab460>, 'Connection to 119.122.214.182 timed out. (connect timeout=10)')))
-❌ 錯誤: http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0 (HTTPConnectionPool(host='14.212.185.27', port=9901): Max retries exceeded with url: /tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='14.212.185.27', port=9901) at 0x7f0b386aaf80>, 'Connection to 14.212.185.27 timed out. (connect timeout=10)')))
-❌ 錯誤: http://36.105.100.208:35455/itv/1000000002000011619.m3u8?cdn=ystenlive (HTTPConnectionPool(host='36.105.100.208', port=35455): Max retries exceeded with url: /itv/1000000002000011619.m3u8?cdn=ystenlive (Caused by ConnectTimeoutError(<HTTPConnection(host='36.105.100.208', port=35455) at 0x7f0b3867ac50>, 'Connection to 36.105.100.208 timed out. (connect timeout=10)')))
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192 (HTTPConnectionPool(host='xubo0712.asuscomm.cn', port=9999): Max retries exceeded with url: /rtp/239.93.0.162:2192 (Caused by NameResolutionError("HTTPConnection(host='xubo0712.asuscomm.cn', port=9999): Failed to resolve 'xubo0712.asuscomm.cn' ([Errno -3] Temporary failure in name resolution)")))
-❌ 錯誤: http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8 (HTTPConnectionPool(host='1b6467f415.iok.la', port=9931): Max retries exceeded with url: /tsfile/live/1011_1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='1b6467f415.iok.la', port=9931) at 0x7f0b386a99f0>, 'Connection to 1b6467f415.iok.la timed out. (connect timeout=10)')))
-✅ 報告: https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-   ┣ [源頭掃描] 總台數: 66
-   ┣ [網絡狀況] 連通數: 36 | 唔通數: 30
-   ┗ [內容過濾] 中白名單: 7 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8 (HTTPConnectionPool(host='v2h.1789.dpdns.org', port=80): Max retries exceeded with url: /jade2/jade.stream/chunklist_w100.m3u8 (Caused by NameResolutionError("HTTPConnection(host='v2h.1789.dpdns.org', port=80): Failed to resolve 'v2h.1789.dpdns.org' ([Errno -2] Name or service not known)")))
-❌ 錯誤: http://171.108.239.79:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.79', port=8181): Max retries exceeded with url: /tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.79', port=8181) at 0x7f0b302e2770>, 'Connection to 171.108.239.79 timed out. (connect timeout=10)')))
-❌ 錯誤: http://171.108.239.99:8181/tsfile/live/1003_1.m3u8?key=txiptv (HTTPConnectionPool(host='171.108.239.99', port=8181): Max retries exceeded with url: /tsfile/live/1003_1.m3u8?key=txiptv (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.99', port=8181) at 0x7f0b302e3c70>, 'Connection to 171.108.239.99 timed out. (connect timeout=10)')))
-❌ 錯誤: http://42.48.50.232:9002/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='42.48.50.232', port=9002): Max retries exceeded with url: /tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='42.48.50.232', port=9002) at 0x7f0b302e11e0>, 'Connection to 42.48.50.232 timed out. (connect timeout=10)')))
-❌ 錯誤: http://182.91.124.224:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0 (HTTPConnectionPool(host='182.91.124.224', port=9901): Max retries exceeded with url: /tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.91.124.224', port=9901) at 0x7f0b302e03d0>, 'Connection to 182.91.124.224 timed out. (connect timeout=10)')))
-❌ 錯誤: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8? (HTTPConnectionPool(host='39.134.24.162', port=80): Max retries exceeded with url: /dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='39.134.24.162', port=80) at 0x7f0b302e2920>, 'Connection to 39.134.24.162 timed out. (connect timeout=10)')))
-❌ 錯誤: http://114.252.238.87:8000/udp/239.3.1.161:8001 (HTTPConnectionPool(host='114.252.238.87', port=8000): Max retries exceeded with url: /udp/239.3.1.161:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.252.238.87', port=8000) at 0x7f0b302e0af0>, 'Connection to 114.252.238.87 timed out. (connect timeout=10)')))
-❌ 錯誤: http://www.terrykang.cn:5678/sxg.php?id=test1_4000 (HTTPConnectionPool(host='www.terrykang.cn', port=5678): Max retries exceeded with url: /sxg.php?id=test1_4000 (Caused by ConnectTimeoutError(<HTTPConnection(host='www.terrykang.cn', port=5678) at 0x7f0b303106d0>, 'Connection to www.terrykang.cn timed out. (connect timeout=10)')))
-❌ 錯誤: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (HTTPConnectionPool(host='39.134.24.162', port=80): Max retries exceeded with url: /dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='39.134.24.162', port=80) at 0x7f0b302e18d0>, 'Connection to 39.134.24.162 timed out. (connect timeout=10)')))
 ✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
    ┣ [源頭掃描] 總台數: 50
-   ┣ [網絡狀況] 連通數: 34 | 唔通數: 16
+   ┣ [網絡狀況] 連通數: 35 | 唔通數: 15
    ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://37.27.111.214:8080/live/24/hls.m3u8 (HTTPConnectionPool(host='37.27.111.214', port=8080): Read timed out. (read timeout=10))
-❌ 錯誤: http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068 (HTTPConnectionPool(host='23.224.49.18', port=8866): Max retries exceeded with url: /haiou.php?id=4gtv-4gtv068 (Caused by ConnectTimeoutError(<HTTPConnection(host='23.224.49.18', port=8866) at 0x7f0b307cec20>, 'Connection to 23.224.49.18 timed out. (connect timeout=10)')))
-❌ 錯誤: http://www.erbao1981.top:8188/udp/239.76.246.135:1234 (HTTPConnectionPool(host='www.erbao1981.top', port=8188): Max retries exceeded with url: /udp/239.76.246.135:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='www.erbao1981.top', port=8188) at 0x7f0b3809e7a0>, 'Connection to www.erbao1981.top timed out. (connect timeout=10)')))
-❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8521/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
-✅ 報告: https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u
-   ┣ [源頭掃描] 總台數: 106
-   ┣ [網絡狀況] 連通數: 49 | 唔通數: 57
-   ┗ [內容過濾] 中白名單: 21 (採納) | 中黑名單: 6 (剔除)
+💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+❌ 錯誤: http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192 (HTTPConnectionPool(host='xubo0712.asuscomm.cn', port=9999): Max retries exceeded with url: /rtp/239.93.0.162:2192 (Caused by NameResolutionError("HTTPConnection(host='xubo0712.asuscomm.cn', port=9999): Failed to resolve 'xubo0712.asuscomm.cn' ([Errno -3] Temporary failure in name resolution)")))
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8 (HTTPConnectionPool(host='v2h.1789.dpdns.org', port=80): Max retries exceeded with url: /jade2/jade.stream/chunklist_w100.m3u8 (Caused by NameResolutionError("HTTPConnection(host='v2h.1789.dpdns.org', port=80): Failed to resolve 'v2h.1789.dpdns.org' ([Errno -2] Name or service not known)")))
+💀 報告: http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0 (HTTPConnectionPool(host='14.212.185.27', port=9901): Max retries exceeded with url: /tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='14.212.185.27', port=9901) at 0x7f3c38a84a60>, 'Connection to 14.212.185.27 timed out. (connect timeout=10)')))
+❌ 錯誤: http://113.109.248.232:9999/udp/239.77.0.1:5146 (HTTPConnectionPool(host='113.109.248.232', port=9999): Max retries exceeded with url: /udp/239.77.0.1:5146 (Caused by ConnectTimeoutError(<HTTPConnection(host='113.109.248.232', port=9999) at 0x7f3c38a17610>, 'Connection to 113.109.248.232 timed out. (connect timeout=10)')))
+❌ 錯誤: http://123.254.110.101:5000/2000000003000000033/hnbblive/index.m3u8 (HTTPConnectionPool(host='123.254.110.101', port=5000): Max retries exceeded with url: /2000000003000000033/hnbblive/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='123.254.110.101', port=5000) at 0x7f3c38a4d540>, 'Connection to 123.254.110.101 timed out. (connect timeout=10)')))
+❌ 錯誤: http://119.122.214.182:4022/udp/239.77.0.1:5146 (HTTPConnectionPool(host='119.122.214.182', port=4022): Max retries exceeded with url: /udp/239.77.0.1:5146 (Caused by ConnectTimeoutError(<HTTPConnection(host='119.122.214.182', port=4022) at 0x7f3c38a4c2b0>, 'Connection to 119.122.214.182 timed out. (connect timeout=10)')))
+❌ 錯誤: http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8 (HTTPConnectionPool(host='grandprix2023.asuscomm.com', port=8889): Max retries exceeded with url: /bysid/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='grandprix2023.asuscomm.com', port=8889): Failed to establish a new connection: [Errno 111] Connection refused")))
+💀 報告: https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u
+   ┣ [源頭掃描] 總台數: 82
+   ┣ [網絡狀況] 連通數: 14 | 唔通數: 68
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 7 (剔除)
    ┗ [🚫 黑名單細節]:
-      東森購物2, 東森購物3, MOMO購物1台, MOMO購物2台, Viva 美好購物1台
-      Viva 美好購物2台
+      浙江新聞, 浙江國際, 浙江少兒, 浙江教科, 浙江民生
+      浙江經濟, 浙江錢江
+❌ 錯誤: http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8 (HTTPConnectionPool(host='1b6467f415.iok.la', port=9931): Max retries exceeded with url: /tsfile/live/1011_1.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='1b6467f415.iok.la', port=9931) at 0x7f3c38a4ed10>, 'Connection to 1b6467f415.iok.la timed out. (connect timeout=10)')))
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
+   ┣ [源頭掃描] 總台數: 124
+   ┣ [網絡狀況] 連通數: 12 | 唔通數: 112
+   ┗ [內容過濾] 中白名單: 3 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts (HTTPConnectionPool(host='zw9999.cnstream.top', port=80): Max retries exceeded with url: /play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts (Caused by NameResolutionError("HTTPConnection(host='zw9999.cnstream.top', port=80): Failed to resolve 'zw9999.cnstream.top' ([Errno -2] Name or service not known)")))
+❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8521/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
+💀 報告: http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+   ┣ [源頭掃描] 總台數: 120
+   ┣ [網絡狀況] 連通數: 44 | 唔通數: 76
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://36.105.100.208:35455/itv/1000000002000011619.m3u8?cdn=ystenlive (HTTPConnectionPool(host='36.105.100.208', port=35455): Max retries exceeded with url: /itv/1000000002000011619.m3u8?cdn=ystenlive (Caused by ConnectTimeoutError(<HTTPConnection(host='36.105.100.208', port=35455) at 0x7f3c28fe9570>, 'Connection to 36.105.100.208 timed out. (connect timeout=10)')))
+❌ 錯誤: http://182.91.124.224:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0 (HTTPConnectionPool(host='182.91.124.224', port=9901): Max retries exceeded with url: /tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='182.91.124.224', port=9901) at 0x7f3c28b7ba60>, 'Connection to 182.91.124.224 timed out. (connect timeout=10)')))
+❌ 錯誤: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (HTTPConnectionPool(host='39.134.24.162', port=80): Max retries exceeded with url: /dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='39.134.24.162', port=80) at 0x7f3c14a53a30>, 'Connection to 39.134.24.162 timed out. (connect timeout=10)')))
+❌ 錯誤: http://42.48.50.232:9002/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='42.48.50.232', port=9002): Max retries exceeded with url: /tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='42.48.50.232', port=9002) at 0x7f3c14ff0130>, 'Connection to 42.48.50.232 timed out. (connect timeout=10)')))
+❌ 錯誤: http://114.252.238.87:8000/udp/239.3.1.161:8001 (HTTPConnectionPool(host='114.252.238.87', port=8000): Max retries exceeded with url: /udp/239.3.1.161:8001 (Caused by ConnectTimeoutError(<HTTPConnection(host='114.252.238.87', port=8000) at 0x7f3c14fa9660>, 'Connection to 114.252.238.87 timed out. (connect timeout=10)')))
+❌ 錯誤: http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8? (HTTPConnectionPool(host='39.134.24.162', port=80): Max retries exceeded with url: /dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='39.134.24.162', port=80) at 0x7f3c28a71690>, 'Connection to 39.134.24.162 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.79:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.79', port=8181): Max retries exceeded with url: /tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.79', port=8181) at 0x7f3c14ae58a0>, 'Connection to 171.108.239.79 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.99:8181/tsfile/live/1003_1.m3u8?key=txiptv (HTTPConnectionPool(host='171.108.239.99', port=8181): Max retries exceeded with url: /tsfile/live/1003_1.m3u8?key=txiptv (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.99', port=8181) at 0x7f3c14ff1d50>, 'Connection to 171.108.239.99 timed out. (connect timeout=10)')))
+❌ 錯誤: http://www.erbao1981.top:8188/udp/239.76.246.135:1234 (HTTPConnectionPool(host='www.erbao1981.top', port=8188): Max retries exceeded with url: /udp/239.76.246.135:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='www.erbao1981.top', port=8188) at 0x7f3c14e5a230>, 'Connection to www.erbao1981.top timed out. (connect timeout=10)')))
 ❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8543/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
+❌ 錯誤: http://www.terrykang.cn:5678/sxg.php?id=test1_4000 (HTTPConnectionPool(host='www.terrykang.cn', port=5678): Max retries exceeded with url: /sxg.php?id=test1_4000 (Caused by ConnectTimeoutError(<HTTPConnection(host='www.terrykang.cn', port=5678) at 0x7f3c28be1990>, 'Connection to www.terrykang.cn timed out. (connect timeout=10)')))
 ❌ 錯誤: https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8 (HTTPSConnectionPool(host='edge6a.v2h-cdn.com', port=443): Max retries exceeded with url: /enew/enew.stream/chunklist.m3u8 (Caused by NameResolutionError("HTTPSConnection(host='edge6a.v2h-cdn.com', port=443): Failed to resolve 'edge6a.v2h-cdn.com' ([Errno -2] Name or service not known)")))
-❌ 錯誤: http://live4play.uk/livehttpplay?channel_id=10126 (HTTPConnectionPool(host='live4play.uk', port=80): Max retries exceeded with url: /livehttpplay?channel_id=10126 (Caused by NewConnectionError("HTTPConnection(host='live4play.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused")))
 💀 報告: https://tv.iill.top/4gtv/229
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://live4play.uk/livehttpplay?channel_id=10126 (HTTPConnectionPool(host='live4play.uk', port=80): Max retries exceeded with url: /livehttpplay?channel_id=10126 (Caused by NewConnectionError("HTTPConnection(host='live4play.uk', port=80): Failed to establish a new connection: [Errno 111] Connection refused")))
+💀 報告: https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
@@ -157,313 +166,332 @@
    ┣ [源頭掃描] 總台數: 1
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 1
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u
-   ┣ [源頭掃描] 總台數: 82
-   ┣ [網絡狀況] 連通數: 6 | 唔通數: 76
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+❌ 錯誤: http://37.27.111.214:8080/live/24/hls.m3u8 (HTTPConnectionPool(host='37.27.111.214', port=8080): Read timed out. (read timeout=10))
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
+   ┣ [源頭掃描] 總台數: 112
+   ┣ [網絡狀況] 連通數: 28 | 唔通數: 84
+   ┗ [內容過濾] 中白名單: 9 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068 (HTTPConnectionPool(host='23.224.49.18', port=8866): Max retries exceeded with url: /haiou.php?id=4gtv-4gtv068 (Caused by ConnectTimeoutError(<HTTPConnection(host='23.224.49.18', port=8866) at 0x7f3c142d4400>, 'Connection to 23.224.49.18 timed out. (connect timeout=10)')))
+💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://php.jdshipin.com:8880/smt.php?id=jade_twn (HTTPSConnectionPool(host='smt2.1678520.xyz', port=443): Read timed out. (read timeout=10))
-❌ 錯誤: http://ku9.fr.to/smt.php?id=videolandsport (HTTPConnectionPool(host='ku9.fr.to', port=80): Max retries exceeded with url: /smt.php?id=videolandsport (Caused by NameResolutionError("HTTPConnection(host='ku9.fr.to', port=80): Failed to resolve 'ku9.fr.to' ([Errno -2] Name or service not known)")))
-❌ 錯誤: https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs (HTTPConnectionPool(host='ww80.hkdvb.com', port=80): Max retries exceeded with url: /?subid1=4c84a81d-919e-11f1-a896-ffc5f109a537 (Caused by ConnectTimeoutError(<HTTPConnection(host='ww80.hkdvb.com', port=80) at 0x7f0b30208340>, 'Connection to ww80.hkdvb.com timed out. (connect timeout=10)')))
-💀 報告: https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-   ┣ [源頭掃描] 總台數: 120
-   ┣ [網絡狀況] 連通數: 40 | 唔通數: 80
+💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+   ┣ [源頭掃描] 總台數: 0
+💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
-   ┣ [源頭掃描] 總台數: 124
-   ┣ [網絡狀況] 連通數: 13 | 唔通數: 111
-   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://gmxw.7766.org:808/hls/132/index.m3u8 (HTTPConnectionPool(host='gmxw.7766.org', port=808): Max retries exceeded with url: /hls/132/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='gmxw.7766.org', port=808) at 0x7f0b386d6ad0>, 'Connection to gmxw.7766.org timed out. (connect timeout=10)')))
-❌ 錯誤: http://gmxw.7766.org:808/hls/83/index.m3u8 (HTTPConnectionPool(host='gmxw.7766.org', port=808): Max retries exceeded with url: /hls/83/index.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='gmxw.7766.org', port=808) at 0x7f0b386a9f30>, 'Connection to gmxw.7766.org timed out. (connect timeout=10)')))
-❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8524/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u
+   ┣ [源頭掃描] 總台數: 106
+   ┣ [網絡狀況] 連通數: 49 | 唔通數: 57
+   ┗ [內容過濾] 中白名單: 21 (採納) | 中黑名單: 6 (剔除)
+   ┗ [🚫 黑名單細節]:
+      東森購物2, 東森購物3, MOMO購物1台, MOMO購物2台, Viva 美好購物1台
+      Viva 美好購物2台
+❌ 錯誤: http://ku9.fr.to/smt.php?id=videolandsport (HTTPConnectionPool(host='ku9.fr.to', port=80): Max retries exceeded with url: /smt.php?id=videolandsport (Caused by NameResolutionError("HTTPConnection(host='ku9.fr.to', port=80): Failed to resolve 'ku9.fr.to' ([Errno -2] Name or service not known)")))
 💀 報告: http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
-💀 報告: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-   ┣ [源頭掃描] 總台數: 112
-   ┣ [源頭掃描] 總台數: 10
-   ┣ [網絡狀況] 連通數: 28 | 唔通數: 84
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 10
-   ┗ [內容過濾] 中白名單: 8 (採納) | 中黑名單: 0 (剔除)
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-❌ 錯誤: http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv (HTTPConnectionPool(host='tvdrs.wsrtv.com.cn', port=8100): Max retries exceeded with url: /channellive/ch1.flv (Caused by ConnectTimeoutError(<HTTPConnection(host='tvdrs.wsrtv.com.cn', port=8100) at 0x7f0b1c0717e0>, 'Connection to tvdrs.wsrtv.com.cn timed out. (connect timeout=10)')))
 💀 報告: https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+   ┣ [源頭掃描] 總台數: 66
+   ┣ [網絡狀況] 連通數: 32 | 唔通數: 34
+   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+   ┣ [源頭掃描] 總台數: 10
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 10
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8 (HTTPConnectionPool(host='tianhewan.top', port=80): Max retries exceeded with url: /ZIPP.php?url=http://211.72.65.236:8524/.m3u8 (Caused by NameResolutionError("HTTPConnection(host='tianhewan.top', port=80): Failed to resolve 'tianhewan.top' ([Errno -2] Name or service not known)")))
 ✅ 報告: https://epg.pw/test_channels_hong_kong.m3u
-   ┣ [源頭掃描] 總台數: 56
-   ┣ [網絡狀況] 連通數: 48 | 唔通數: 8
+   ┣ [源頭掃描] 總台數: 54
+   ┣ [網絡狀況] 連通數: 43 | 唔通數: 11
    ┗ [內容過濾] 中白名單: 27 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u
    ┣ [源頭掃描] 總台數: 151
-   ┣ [網絡狀況] 連通數: 18 | 唔通數: 133
-   ┗ [內容過濾] 中白名單: 5 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://iptv-org.github.io/iptv/countries/cn.m3u
-   ┣ [源頭掃描] 總台數: 154
-   ┣ [網絡狀況] 連通數: 62 | 唔通數: 92
-   ┗ [內容過濾] 中白名單: 31 (採納) | 中黑名單: 1 (剔除)
-   ┗ [🚫 黑名單細節]:
-      CCTV-8K (1080p)
+   ┣ [網絡狀況] 連通數: 16 | 唔通數: 135
+   ┗ [內容過濾] 中白名單: 3 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv (HTTPConnectionPool(host='tvdrs.wsrtv.com.cn', port=8100): Max retries exceeded with url: /channellive/ch1.flv (Caused by ConnectTimeoutError(<HTTPConnection(host='tvdrs.wsrtv.com.cn', port=8100) at 0x7f3c04b89c00>, 'Connection to tvdrs.wsrtv.com.cn timed out. (connect timeout=10)')))
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8202506.m3u
    ┣ [源頭掃描] 總台數: 202
-   ┣ [網絡狀況] 連通數: 104 | 唔通數: 98
-   ┗ [內容過濾] 中白名單: 35 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 112 | 唔通數: 90
+   ┗ [內容過濾] 中白名單: 37 (採納) | 中黑名單: 0 (剔除)
+❌ 錯誤: https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs (HTTPConnectionPool(host='ww80.hkdvb.com', port=80): Max retries exceeded with url: /?subid1=494b7eef-9207-11f1-b673-f58dd902967c (Caused by ConnectTimeoutError(<HTTPConnection(host='ww80.hkdvb.com', port=80) at 0x7f3be4e38c10>, 'Connection to ww80.hkdvb.com timed out. (connect timeout=10)')))
 ❌ 錯誤: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8 (HTTPConnectionPool(host='dbiptv.sn.chinamobile.com', port=80): Max retries exceeded with url: /PLTV/88888890/224/3221226547/index.m3u8 (Caused by NewConnectionError("HTTPConnection(host='dbiptv.sn.chinamobile.com', port=80): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://125.227.210.55:8155/VideoInput/play.ts (HTTPConnectionPool(host='125.227.210.55', port=8155): Max retries exceeded with url: /VideoInput/play.ts (Caused by ConnectTimeoutError(<HTTPConnection(host='125.227.210.55', port=8155) at 0x7f0b0ce67fd0>, 'Connection to 125.227.210.55 timed out. (connect timeout=10)')))
-❌ 錯誤: http://211.72.65.236:8585/.m3u8 (HTTPConnectionPool(host='211.72.65.236', port=8585): Max retries exceeded with url: /.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='211.72.65.236', port=8585) at 0x7f0b3074ada0>, 'Connection to 211.72.65.236 timed out. (connect timeout=10)')))
-❌ 錯誤: http://211.72.65.236:8524/.m3u8 (HTTPConnectionPool(host='211.72.65.236', port=8524): Max retries exceeded with url: /.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='211.72.65.236', port=8524) at 0x7f0b0c3a14b0>, 'Connection to 211.72.65.236 timed out. (connect timeout=10)')))
-❌ 錯誤: http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.79', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.79', port=8181) at 0x7f0aecb27cd0>, 'Connection to 171.108.239.79 timed out. (connect timeout=10)')))
-❌ 錯誤: http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.98', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.98', port=8181) at 0x7f0b1c55c6d0>, 'Connection to 171.108.239.98 timed out. (connect timeout=10)')))
-❌ 錯誤: http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.80', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.80', port=8181) at 0x7f0afcf27220>, 'Connection to 171.108.239.80 timed out. (connect timeout=10)')))
-❌ 錯誤: http://171.108.239.99:8181/tsfile/live/1023_1.m3u8?key=txiptv (HTTPConnectionPool(host='171.108.239.99', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.99', port=8181) at 0x7f0aec123b50>, 'Connection to 171.108.239.99 timed out. (connect timeout=10)')))
-❌ 錯誤: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70 (HTTPConnectionPool(host='ww80.jiduo.me', port=80): Max retries exceeded with url: /?subid1=535f1f38-919e-11f1-91f6-711055438370 (Caused by ConnectTimeoutError(<HTTPConnection(host='ww80.jiduo.me', port=80) at 0x7f0aec5a3370>, 'Connection to ww80.jiduo.me timed out. (connect timeout=10)')))
-❌ 錯誤: http://tvbox6.icu/tv/dwqws.m3u8 (HTTPConnectionPool(host='tvbox6.icu', port=80): Max retries exceeded with url: /tv/dwqws.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='tvbox6.icu', port=80) at 0x7f0b386d4a90>, 'Connection to tvbox6.icu timed out. (connect timeout=10)')))
+✅ 報告: https://iptv-org.github.io/iptv/countries/cn.m3u
+   ┣ [源頭掃描] 總台數: 154
+   ┣ [網絡狀況] 連通數: 53 | 唔通數: 101
+   ┗ [內容過濾] 中白名單: 25 (採納) | 中黑名單: 1 (剔除)
+   ┗ [🚫 黑名單細節]:
+      CCTV-8K (1080p)
+❌ 錯誤: http://php.jdshipin.com:8880/smt.php?id=jade_twn (HTTPSConnectionPool(host='smt2.1678520.xyz', port=443): Read timed out. (read timeout=10))
+❌ 錯誤: http://211.72.65.236:8585/.m3u8 (HTTPConnectionPool(host='211.72.65.236', port=8585): Max retries exceeded with url: /.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='211.72.65.236', port=8585) at 0x7f3be4d7cc40>, 'Connection to 211.72.65.236 timed out. (connect timeout=10)')))
+❌ 錯誤: http://211.72.65.236:8524/.m3u8 (HTTPConnectionPool(host='211.72.65.236', port=8524): Max retries exceeded with url: /.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='211.72.65.236', port=8524) at 0x7f3bc4e62e30>, 'Connection to 211.72.65.236 timed out. (connect timeout=10)')))
+❌ 錯誤: http://125.227.210.55:8155/VideoInput/play.ts (HTTPConnectionPool(host='125.227.210.55', port=8155): Max retries exceeded with url: /VideoInput/play.ts (Caused by ConnectTimeoutError(<HTTPConnection(host='125.227.210.55', port=8155) at 0x7f3c048f6350>, 'Connection to 125.227.210.55 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.80', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.80', port=8181) at 0x7f3bc4e12dd0>, 'Connection to 171.108.239.80 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.79', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.79', port=8181) at 0x7f3c14a84190>, 'Connection to 171.108.239.79 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.99:8181/tsfile/live/1023_1.m3u8?key=txiptv (HTTPConnectionPool(host='171.108.239.99', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.99', port=8181) at 0x7f3bc4b1b4f0>, 'Connection to 171.108.239.99 timed out. (connect timeout=10)')))
+❌ 錯誤: http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='171.108.239.98', port=8181): Max retries exceeded with url: /tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='171.108.239.98', port=8181) at 0x7f3c048742b0>, 'Connection to 171.108.239.98 timed out. (connect timeout=10)')))
+❌ 錯誤: http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70 (HTTPConnectionPool(host='ww80.jiduo.me', port=80): Max retries exceeded with url: /?subid1=4e605eb0-9207-11f1-af0b-6531ae2278f9 (Caused by ConnectTimeoutError(<HTTPConnection(host='ww80.jiduo.me', port=80) at 0x7f3bd4588730>, 'Connection to ww80.jiduo.me timed out. (connect timeout=10)')))
+❌ 錯誤: http://tvbox6.icu/tv/dwqws.m3u8 (HTTPConnectionPool(host='tvbox6.icu', port=80): Max retries exceeded with url: /tv/dwqws.m3u8 (Caused by ConnectTimeoutError(<HTTPConnection(host='tvbox6.icu', port=80) at 0x7f3c38785450>, 'Connection to tvbox6.icu timed out. (connect timeout=10)')))
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202005.m3u
    ┣ [源頭掃描] 總台數: 298
-   ┣ [網絡狀況] 連通數: 30 | 唔通數: 268
-   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 33 | 唔通數: 265
+   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202003.m3u
    ┣ [源頭掃描] 總台數: 353
-   ┣ [網絡狀況] 連通數: 38 | 唔通數: 315
+   ┣ [網絡狀況] 連通數: 36 | 唔通數: 317
    ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
+💀 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
    ┣ [源頭掃描] 總台數: 487
-   ┣ [網絡狀況] 連通數: 57 | 唔通數: 430
-   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 54 | 唔通數: 433
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-   ┣ [源頭掃描] 總台數: 523
-   ┣ [網絡狀況] 連通數: 381 | 唔通數: 142
-   ┗ [內容過濾] 中白名單: 18 (採納) | 中黑名單: 28 (剔除)
+   ┣ [源頭掃描] 總台數: 519
+   ┣ [網絡狀況] 連通數: 318 | 唔通數: 201
+   ┗ [內容過濾] 中白名單: 19 (採納) | 中黑名單: 27 (剔除)
    ┗ [🚫 黑名單細節]:
-      湖南衛視, 浙江衛視, 浙江少兒, 浙江休閒台, 浙江公共新聞
-      浙江教科, 浙江教育, 浙江數碼時代, 浙江民生, 浙江生活
-      浙江留學, 浙江經濟, 浙江經濟生活, 浙江經視, 浙江錢江頻道
-      福建公共, 福建新聞, 福建旅遊, 福建經濟, 江蘇南京牛首山
-      江蘇徐州雲龍湖風景區雲龍山觀景台西, 浙江舟山東極島, 湖南張家界天門山西線玻璃棧道, 湖南張家界寶峯湖, 湖南張家界御筆峯
-      湖南張家界水繞四門, 福建武夷山玉女峯, 福建漳州醉美沙灘翡翠灣
-✅ 報告: https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-   ┣ [源頭掃描] 總台數: 1272
-   ┣ [網絡狀況] 連通數: 354 | 唔通數: 918
-   ┗ [內容過濾] 中白名單: 59 (採納) | 中黑名單: 21 (剔除)
-   ┗ [🚫 黑名單細節]:
-      江蘇衛視4K, 深圳衛視4K, 浙江衛視, 浙江衛視, 湖南衛視
-      江蘇衛視, 深圳衛視, 湖北衛視, 江蘇城市, 江蘇綜藝
-      江蘇影視, 江蘇教育, 江蘇體育休閒, 福建綜合, 福建新聞
-      福建鄉村振興公共, 福建電視劇, 福建旅遊, 福建經濟, 福建文體
-      福建少兒
+      湖北衛視, 湖南衛視, 浙江衛視, 浙江教科影視, 浙江少兒
+      浙江休閒台, 浙江公共新聞, 浙江國際, 浙江教科, 浙江教育
+      浙江數碼時代, 浙江新聞, 浙江民生, 浙江民生休閒, 浙江生活
+      浙江留學, 浙江經濟, 浙江經濟生活, 浙江經視, 浙江遂昌
+      浙江錢江, 浙江錢江都市, 浙江錢江頻道, 福建公共, 福建新聞
+      福建旅遊, 福建經濟
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/1300%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88%E3%80%90%E5%85%A8%E9%83%A84k%E8%80%81%E7%94%B5%E8%84%91%E5%88%AB%E7%94%A8%E3%80%91.m3u8
    ┣ [源頭掃描] 總台數: 1298
-   ┣ [網絡狀況] 連通數: 24 | 唔通數: 1274
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 4 (剔除)
+   ┣ [網絡狀況] 連通數: 23 | 唔通數: 1275
+   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 3 (剔除)
    ┗ [🚫 黑名單細節]:
-      福建·龍巖綜合, 福建·龍巖公共, 江蘇·徐州3, FOX NewsNOW
+      福建·龍巖綜合, 福建·龍巖公共, FOX NewsNOW
+✅ 報告: https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+   ┣ [源頭掃描] 總台數: 1272
+   ┣ [網絡狀況] 連通數: 371 | 唔通數: 901
+   ┗ [內容過濾] 中白名單: 55 (採納) | 中黑名單: 29 (剔除)
+   ┗ [🚫 黑名單細節]:
+      江蘇衛視4K, 深圳衛視4K, 浙江衛視, 浙江衛視, 湖南衛視
+      江蘇衛視, 深圳衛視, 湖北衛視, 浙江少兒, 浙江新聞
+      浙江國際, 浙江教科, 浙江少兒, 浙江民生, 浙江經濟
+      浙江錢江, 江蘇城市, 江蘇綜藝, 江蘇影視, 江蘇教育
+      江蘇體育休閒, 福建綜合, 福建新聞, 福建鄉村振興公共, 福建電視劇
+      福建旅遊, 福建經濟, 福建文體, 福建少兒
 ✅ 報告: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u
    ┣ [源頭掃描] 總台數: 1807
-   ┣ [網絡狀況] 連通數: 966 | 唔通數: 841
-   ┗ [內容過濾] 中白名單: 124 (採納) | 中黑名單: 160 (剔除)
+   ┣ [網絡狀況] 連通數: 986 | 唔通數: 821
+   ┗ [內容過濾] 中白名單: 126 (採納) | 中黑名單: 169 (剔除)
    ┗ [🚫 黑名單細節]:
-      浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
-      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖北衛視
-      湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 江蘇衛視
-      江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 深圳衛視
-      深圳衛視, 深圳衛視, 深圳衛視, 浙江錢江, 浙江錢江
-      浙江錢江, 浙江錢江, 浙江錢江都市, 浙江錢江都市, 浙江錢江都市
-      浙江錢江都市, 浙江錢江都市, 浙江生活, 浙江生活, 浙江生活
-      浙江經濟生活, 浙江經濟生活, 浙江經濟生活, 浙江經濟生活, 浙江教育
-      浙江民生, 浙江民生, 浙江民生, 浙江民生, 浙江新聞
-      浙江新聞, 浙江新聞, 浙江少兒, 浙江少兒, 浙江少兒
-      浙江少兒, 杭州綜合, 杭州綜合, 杭州明珠, 杭州明珠
-      杭州生活, 杭州生活, 杭州生活, 杭州影視, 浙江經濟
-      浙江國際, 浙江國際, 浙江國際, 浙江經視, 浙江民生休閒
-      浙江民生休閒, 浙江民生休閒, 浙江民生休閒, 浙江數碼時代, 浙江教科影視
-      浙江公共新聞, 浙江公共新聞, 浙江公共新聞, 浙江休閒台, 浙江遂昌
-      江蘇城市, 江蘇影視, 江蘇教育, 湖南都市, 湖南都市
-      湖南都市, 湖南都市, 湖南經視, 湖南經視, 湖南經視
-      湖南經視, 湖南經視, 湖南電視劇, 湖南電視劇, 湖南電視劇
-      湖南電視劇, 湖南電視劇, 湖南電影, 湖南教育, 湖南娛樂
-      湖南娛樂, 湖南國際, 湖南國際, 湖南公共, 湖南公共
-      湖南公共, 湖南公共, 湖北綜合, 湖北綜合, 湖北經視
-      湖北經視, 湖北經視, 湖北生活, 湖北生活, 湖北生活
-      湖北生活, 湖北教育, 湖北教育, 湖北教育, 湖北影視
-      湖北影視, 湖北影視, 湖北公共, 湖北壟上, 湖北壟上
-      福建新聞, 福建新聞, 福建新聞, 福建新聞, 福建新聞
-      福建電視劇, 福建電視劇, 福建電視劇, 福建電視劇, 福建電視劇
-      福建經濟, 福建經濟, 福建經濟, 福建經濟, 福建綜合
-      福建綜合, 福建綜合, 福建綜合, 福建綜合, 福建公共
-      福建公共, 福建公共, 福建公共, 福建旅遊, 福建旅遊
-      福建旅遊, 福建旅遊, 福建經視, 福建經視, 福建經視
-      福建經視, 福建經視, 福建少兒, 福建少兒, 福建少兒
-      福建少兒, 福建少兒, 浙江少兒, 浙江少兒, 浙江少兒
+      浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 湖南衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 湖北衛視, 湖北衛視
+      湖北衛視, 湖北衛視, 江蘇衛視, 江蘇衛視, 深圳衛視
+      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 浙江錢江
+      浙江錢江, 浙江錢江, 浙江錢江, 浙江錢江都市, 浙江錢江都市
+      浙江錢江都市, 浙江錢江都市, 浙江錢江都市, 浙江生活, 浙江生活
+      浙江生活, 浙江經濟生活, 浙江經濟生活, 浙江經濟生活, 浙江經濟生活
+      浙江經濟生活, 浙江教育, 浙江民生, 浙江民生, 浙江民生
+      浙江民生, 浙江新聞, 浙江新聞, 浙江新聞, 浙江新聞
+      浙江新聞, 浙江少兒, 浙江少兒, 浙江少兒, 浙江少兒
+      杭州綜合, 杭州綜合, 杭州明珠, 杭州明珠, 杭州生活
+      杭州生活, 杭州生活, 杭州影視, 浙江教科, 浙江經濟
+      浙江經濟, 浙江國際, 浙江國際, 浙江國際, 浙江國際
+      浙江經視, 浙江民生休閒, 浙江民生休閒, 浙江民生休閒, 浙江民生休閒
+      浙江民生休閒, 浙江數碼時代, 浙江數碼時代, 浙江教科影視, 浙江教科影視
+      浙江公共新聞, 浙江公共新聞, 浙江公共新聞, 浙江公共新聞, 浙江休閒台
+      浙江遂昌, 江蘇城市, 江蘇影視, 江蘇教育, 湖南都市
+      湖南都市, 湖南都市, 湖南都市, 湖南都市, 湖南經視
+      湖南經視, 湖南經視, 湖南經視, 湖南經視, 湖南電視劇
+      湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電影
+      湖南電影, 湖南教育, 湖南娛樂, 湖南娛樂, 湖南國際
+      湖南國際, 湖南公共, 湖南公共, 湖南公共, 湖南公共
+      湖北綜合, 湖北綜合, 湖北經視, 湖北經視, 湖北經視
+      湖北生活, 湖北生活, 湖北生活, 湖北生活, 湖北教育
+      湖北教育, 湖北教育, 湖北影視, 湖北影視, 湖北影視
+      湖北公共, 湖北壟上, 湖北壟上, 福建新聞, 福建新聞
+      福建新聞, 福建新聞, 福建新聞, 福建電視劇, 福建電視劇
+      福建電視劇, 福建電視劇, 福建電視劇, 福建經濟, 福建經濟
+      福建經濟, 福建經濟, 福建經濟, 福建綜合, 福建綜合
+      福建綜合, 福建綜合, 福建綜合, 福建公共, 福建公共
+      福建公共, 福建公共, 福建旅遊, 福建旅遊, 福建旅遊
+      福建旅遊, 福建經視, 福建經視, 福建經視, 福建經視
+      福建經視, 福建少兒, 福建少兒, 福建少兒, 福建少兒
+      福建少兒, 浙江少兒, 浙江少兒, 浙江少兒
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/5000%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u
    ┣ [源頭掃描] 總台數: 5181
-   ┣ [網絡狀況] 連通數: 1389 | 唔通數: 3792
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 4 (剔除)
+   ┣ [網絡狀況] 連通數: 1404 | 唔通數: 3777
+   ┗ [內容過濾] 中白名單: 3 (採納) | 中黑名單: 4 (剔除)
    ┗ [🚫 黑名單細節]:
       浙江 Ⅰ 紹興影視 (576p), 浙江 Ⅰ 紹興綜合 (576p), FOX News Now (720p), Pluto TV FOX Sports (720p)
 ✅ 報告: https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
    ┣ [源頭掃描] 總台數: 13745
-   ┣ [網絡狀況] 連通數: 1051 | 唔通數: 12694
-   ┗ [內容過濾] 中白名單: 584 (採納) | 中黑名單: 101 (剔除)
+   ┣ [網絡狀況] 連通數: 1039 | 唔通數: 12706
+   ┗ [內容過濾] 中白名單: 580 (採納) | 中黑名單: 116 (剔除)
    ┗ [🚫 黑名單細節]:
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
-      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 浙江衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
-      浙江衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
+      浙江衛視, 浙江衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
       江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
       江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
       江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
-      江蘇衛視, 江蘇衛視, 江蘇衛視, 深圳衛視, 深圳衛視
-      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 湖北衛視
+      江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
+      江蘇衛視, 江蘇衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
       湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
       湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
       湖北衛視
 ✅ 報告: https://iptv-org.github.io/iptv/index.m3u
-   ┣ [源頭掃描] 總台數: 13536
-   ┣ [網絡狀況] 連通數: 5769 | 唔通數: 7767
-   ┗ [內容過濾] 中白名單: 36 (採納) | 中黑名單: 30 (剔除)
+   ┣ [源頭掃描] 總台數: 13552
+   ┣ [網絡狀況] 連通數: 5863 | 唔通數: 7689
+   ┗ [內容過濾] 中白名單: 37 (採納) | 中黑名單: 31 (剔除)
    ┗ [🚫 黑名單細節]:
       CCTV-8K (1080p), Fox, Fox (576p), FOX 2 San Francisco CA (KTVU) (720p), FOX 11 Green Bay WI (WLUK) (1080p)
-      FOX 13 Seattle WA (KCPQ) (720p), FOX 23 Cape Girardeau MO (KBSI-DT1) (720p), FOX 26 Visalia CA (KMPH) (1080p), FOX 45 Baltimore MD (WBFF) (1080p), Fox Business Network (720p)
-      Fox Life (576p), Fox News Channel (720p), Fox News International (720p), Fox News Radio (720p), Fox Soccer Plus (720p)
-      FOX Sports (1080p), FOX Sports (1080p), Fox Sports 1 (1080p), Fox Sports 2 (1080p), Fox Sports 503 (1080p)
-      FOX Weather (1080p), LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p), 浙江 Ⅰ 紹興綜合 (576p), 浙江國際
-      浙江教科, 浙江新聞, 浙江民生, 浙江經濟, 浙江錢江
+      FOX 13 Seattle WA (KCPQ) (720p), FOX 23 Cape Girardeau MO (KBSI-DT1) (720p), FOX 25 Oklahoma City OK (KOKH) (1080p), FOX 26 Visalia CA (KMPH) (1080p), FOX 45 Baltimore MD (WBFF) (1080p)
+      Fox Business Network (720p), Fox Life (576p), Fox News Channel (720p), Fox News Radio (720p), Fox Soccer Plus (720p)
+      FOX Sports (1080p), FOX Sports (1080p), Fox Sports 1 (720p), Fox Sports 2 (720p), FOX Weather (1080p)
+      Fox West (720p), FunBox UHD, LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p), 浙江 Ⅰ 紹興綜合 (576p)
+      浙江國際, 浙江教科, 浙江新聞, 浙江民生, 浙江經濟
+      浙江錢江
 -----------------------------------------------------------------
-🏁 完工！共處理 184 個頻道
+🏁 完工！共處理 179 個頻道
 >>> 偵測到定時任務：啟動 FULL_SCAN 模式 (全量掃描) <<<
 📅 [定時模式] 全量加載 138 個源
 🚀 開始併發診斷 5 個網絡...
 
 ============================== 【失效追蹤報表】 ==============================
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:3869:8021:1001::e5]:6610/PL... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:3869:8021:1001::e5]:6610/PL... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:4c0a:22:1::11]:6410/1700000... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::7005]/ottrrs.hl.ch... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::7005]/ottrrs.hl.ch... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:5e00:24::1e]:6060/200000001... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:1a01:df::4077]/ottrrs.hl.ch... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://home.wwang.pw:35455/itv/20000000030000... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://123.254.110.101:5000/20000000030000000... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://120.238.94.10:9901/tsfile/live/1009_1.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://1b6467f415.iok.la:9931/tsfile/live/101... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://gmxw.7766.org:808/hls/83/index.m3u8       | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://cdn2.163189.xyz/live/gdzj/stream.m3u8     | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/chudian.php?id=g... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://14.212.185.27:9901/tsfile/live/0019_1.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://119.122.214.182:4022/udp/239.77.0.1:51... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://113.109.248.232:9999/udp/239.77.0.1:51... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:5e00:24::1e]:6060/000000001... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tvbox6.icu/tv/dwqws.m3u8                  | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://183.11.239.36:808/hls/132/index.m3u8      | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://qjrhc.jydjd.top:2911/udp/224.1.100.153... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://home.wwang.pw:35455/itv/20000000030000... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://www.freetv.top/migu/608917627.m3u8?mi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://gmxw.7766.org:808/hls/132/index.m3u8      | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://3501776.xyz:35455/itv/1000000002000011... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://36.105.100.208:35455/itv/1000000002000... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://dd.ddzb.fun/php/migu.php?id=dwqws         | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:3428:20:500::100f]:6610/PLT... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:3428:20:500::1009]:6610/PLT... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://182.91.124.224:9901/tsfile/live/1059_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://114.252.238.87:8000/udp/239.3.1.161:80... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://42.48.50.232:9002/tsfile/live/1002_1.m... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://39.134.24.162/dbiptv.sn.chinamobile.co... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://39.134.24.162/dbiptv.sn.chinamobile.co... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://www.zzlag.top:9087/tsfile/live/1041_1.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.79:8181/tsfile/live/1003_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.99:8181/tsfile/live/1003_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://www.terrykang.cn:5678/sxg.php?id=test1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fhzw    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://xubo0712.asuscomm.cn:9999/rtp/239.93.0... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://203.205.220.174:80/qctv.fengshows.cn/l... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://www.erbao1981.top:8188/udp/239.76.246.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://dbiptv.sn.chinamobile.com/PLTV/8888889... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://223.109.210.41/1301-tx.otvstream.otvcl... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.17186.eu.org/phtv/fhzw.m3u8           | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://r.jdshipin.com/cCCzW                      | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://50.7.234.10:8278/tvbshuanle_twn/playli... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://37.27.111.214:8080/live/24/hls.m3u8       | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://23.224.49.18:8866/haiou.php?id=4gtv-4g... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://38.64.72.148/hls/modn/list/4005/playli... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/4005/pla... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://38.64.72.148/hls/modn/list/4005/chunkl... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/4005/pla... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://fm1077.serv00.net/Smart.php?id=j2_twn     | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://turkmedya-live.ercdn.net/tv360/tv360.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://live.hkdvb.com/hls/live/99.m3u8?token... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/smt.php?id=jade_... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fct3    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://grandprix2023.asuscomm.com:8889/bysid/... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tvdrs.wsrtv.com.cn:8100/channellive/ch... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://zw9999.cnstream.top:80/play/ubI0Nrlni6... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://cdn9.163189.xyz/smt1.1.php?id=jade_twn    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://v2h.jdshipin.com/jade2/jade.stream/chu... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://haoyunlai.serv00.net/Smartv-1.php?id=... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://edge6a.v2h-cdn.com/enew/enew.stream/c... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://tv.iill.top/4gtv/229                     | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://live4play.uk/livehttpplay?channel_id=1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null-14/AKTV.m... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://raw.githubusercontent.com/ChiSheng9/i... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.mi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=291&tim... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://ku9.fr.to/smt.php?id=videolandsport       | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=292&tim... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=19... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://dassby.qqff.top:99/live/辽宁体育/index.m3u... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://cloud.yumixiu768.com:443/tmp/123.m3u8    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://211.72.65.236:8585/.m3u8                  | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://125.227.210.55:8155/VideoInput/play.ts    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=220&tim... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://haoyunlai.serv00.net/Smartv-1.php?id=... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=221&tim... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://211.72.65.236:8524/.m3u8                  | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/2013/chu... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.79:8181/tsfile/live/1023_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.80:8181/tsfile/live/1023_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.99:8181/tsfile/live/1023_1... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://171.108.239.98:8181/tsfile/live/1023_1... | 已死 13 天 | 剩餘  2 天封印
+🔴 [初次失效] | https://raw.githubusercontent.com/Free-TV/IPT... | 始於: 2026-08-07
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:3869:8021:1001::e5]:6610/PL... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::4077]:80/ottrrs.hl... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:3869:8021:1001::e5]:6610/PL... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:4c0a:22:1::11]:6410/1700000... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::7005]/ottrrs.hl.ch... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::7005]/ottrrs.hl.ch... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:5e00:24::1e]:6060/200000001... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:1a01:df::4077]/ottrrs.hl.ch... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://home.wwang.pw:35455/itv/20000000030000... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://123.254.110.101:5000/20000000030000000... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://120.238.94.10:9901/tsfile/live/1009_1.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://1b6467f415.iok.la:9931/tsfile/live/101... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://gmxw.7766.org:808/hls/83/index.m3u8       | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://cdn2.163189.xyz/live/gdzj/stream.m3u8     | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com:8880/chudian.php?id=g... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://14.212.185.27:9901/tsfile/live/0019_1.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://119.122.214.182:4022/udp/239.77.0.1:51... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://113.109.248.232:9999/udp/239.77.0.1:51... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:5e00:24::1e]:6060/000000001... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tvbox6.icu/tv/dwqws.m3u8                  | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://183.11.239.36:808/hls/132/index.m3u8      | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://qjrhc.jydjd.top:2911/udp/224.1.100.153... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://home.wwang.pw:35455/itv/20000000030000... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://www.freetv.top/migu/608917627.m3u8?mi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://gmxw.7766.org:808/hls/132/index.m3u8      | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://3501776.xyz:35455/itv/1000000002000011... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://36.105.100.208:35455/itv/1000000002000... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://dd.ddzb.fun/php/migu.php?id=dwqws         | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:3428:20:500::100f]:6610/PLT... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:3428:20:500::1009]:6610/PLT... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://182.91.124.224:9901/tsfile/live/1059_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://114.252.238.87:8000/udp/239.3.1.161:80... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://42.48.50.232:9002/tsfile/live/1002_1.m... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://39.134.24.162/dbiptv.sn.chinamobile.co... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://39.134.24.162/dbiptv.sn.chinamobile.co... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://www.zzlag.top:9087/tsfile/live/1041_1.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.79:8181/tsfile/live/1003_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.99:8181/tsfile/live/1003_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://www.terrykang.cn:5678/sxg.php?id=test1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fhzw    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://xubo0712.asuscomm.cn:9999/rtp/239.93.0... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://203.205.220.174:80/qctv.fengshows.cn/l... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://www.erbao1981.top:8188/udp/239.76.246.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://dbiptv.sn.chinamobile.com/PLTV/8888889... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://223.109.210.41/1301-tx.otvstream.otvcl... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.17186.eu.org/phtv/fhzw.m3u8           | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://r.jdshipin.com/cCCzW                      | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://50.7.234.10:8278/tvbshuanle_twn/playli... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://37.27.111.214:8080/live/24/hls.m3u8       | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://23.224.49.18:8866/haiou.php?id=4gtv-4g... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://38.64.72.148/hls/modn/list/4005/playli... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/4005/pla... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://38.64.72.148/hls/modn/list/4005/chunkl... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/4005/pla... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://fm1077.serv00.net/Smart.php?id=j2_twn     | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://turkmedya-live.ercdn.net/tv360/tv360.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://live.hkdvb.com/hls/live/99.m3u8?token... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com:8880/smt.php?id=jade_... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fct3    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://grandprix2023.asuscomm.com:8889/bysid/... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tvdrs.wsrtv.com.cn:8100/channellive/ch... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://zw9999.cnstream.top:80/play/ubI0Nrlni6... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://cdn9.163189.xyz/smt1.1.php?id=jade_twn    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://v2h.jdshipin.com/jade2/jade.stream/chu... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://haoyunlai.serv00.net/Smartv-1.php?id=... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://edge6a.v2h-cdn.com/enew/enew.stream/c... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://tv.iill.top/4gtv/229                     | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://live4play.uk/livehttpplay?channel_id=1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://aktv.top/AKTV/live/aktv/null-14/AKTV.m... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://raw.githubusercontent.com/ChiSheng9/i... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.mi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://108.181.20.197/livehttpplay?channel_id... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=291&tim... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://ku9.fr.to/smt.php?id=videolandsport       | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=292&tim... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=19... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://dassby.qqff.top:99/live/辽宁体育/index.m3u... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://cloud.yumixiu768.com:443/tmp/123.m3u8    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://211.72.65.236:8585/.m3u8                  | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://125.227.210.55:8155/VideoInput/play.ts    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=220&tim... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://haoyunlai.serv00.net/Smartv-1.php?id=... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | https://cdn.iptv8k.top/dl/jrys.php?id=221&tim... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://211.72.65.236:8524/.m3u8                  | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://tianhewan.top/ZIPP.php?url=http://211.... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/2013/chu... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.79:8181/tsfile/live/1023_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.80:8181/tsfile/live/1023_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.99:8181/tsfile/live/1023_1... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://171.108.239.98:8181/tsfile/live/1023_1... | 已死 14 天 | 剩餘  1 天封印
 =============================================================================
 
 💾 檔案已保存: gz_live.m3u
