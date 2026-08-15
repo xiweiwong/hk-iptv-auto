@@ -234,5 +234,13 @@
     "http://cdn6.163189.xyz/163189/fhhk": "2026-08-14",
     "http://php.jdshipin.com/TVOD/iptv.php?id=fhhk": "2026-08-14",
     "http://27.39.122.2:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-14",
-    "http://27.39.122.2:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-14"
+    "http://27.39.122.2:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-14",
+    "http://36.136.11.230:11888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
+    "http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
+    "http://171.38.148.188:9003/hls/39/index.m3u8": "2026-08-15",
+    "http://36.136.11.230:11888/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
+    "http://171.38.148.188:9003/hls/37/index.m3u8": "2026-08-15",
+    "http://36.136.11.230:11888/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
+    "http://36.136.11.230:11888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
+    "http://36.136.11.230:11888/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15"
 }
