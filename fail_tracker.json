@@ -245,5 +245,6 @@
     "http://36.136.11.230:11888/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-15",
     "http://222.240.44.42:12810/newlive/live/hls/1/live.m3u8": "2026-08-16",
     "http://42.224.115.13:9003/hls/1/index.m3u8": "2026-08-16",
-    "http://r.jdshipin.com/NfC0f": "2026-08-16"
+    "http://r.jdshipin.com/NfC0f": "2026-08-16",
+    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-08-16"
 }
