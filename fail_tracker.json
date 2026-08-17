@@ -246,5 +246,15 @@
     "http://222.240.44.42:12810/newlive/live/hls/1/live.m3u8": "2026-08-16",
     "http://42.224.115.13:9003/hls/1/index.m3u8": "2026-08-16",
     "http://r.jdshipin.com/NfC0f": "2026-08-16",
-    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-08-16"
+    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-08-16",
+    "http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8": "2026-08-17",
+    "http://111.59.24.227:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-17",
+    "http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-17",
+    "http://119.233.255.62:1234/608917627": "2026-08-17",
+    "https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0": "2026-08-17",
+    "http://zmgd.zyrnet.com:8888/hls/110/index.m3u8": "2026-08-17",
+    "http://zmgd.zyrnet.com:8888/hls/109/index.m3u8": "2026-08-17",
+    "https://cdn.qd.je/163189/fhhk": "2026-08-17",
+    "https://cdn3.indevs.in/stream/tvb/fct/": "2026-08-17",
+    "https://cdn.qd.je/163189/mzt": "2026-08-17"
 }
