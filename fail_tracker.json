@@ -255,5 +255,10 @@
     "http://zmgd.zyrnet.com:8888/hls/109/index.m3u8": "2026-08-17",
     "https://cdn.qd.je/163189/fhhk": "2026-08-17",
     "https://cdn3.indevs.in/stream/tvb/fct/": "2026-08-17",
-    "https://cdn.qd.je/163189/mzt": "2026-08-17"
+    "https://cdn.qd.je/163189/mzt": "2026-08-17",
+    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-08-18",
+    "http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1": "2026-08-18",
+    "http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1": "2026-08-18",
+    "http://120.198.95.220:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1": "2026-08-18",
+    "http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1": "2026-08-18"
 }
