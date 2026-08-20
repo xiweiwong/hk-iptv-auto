@@ -264,7 +264,12 @@
     "http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-19",
     "http://116.113.73.240:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-19",
     "http://php.jdshipin.com/TVOD/iptv.php?id=gdty": "2026-08-19",
-    "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8": "2026-08-20",
     "http://61.161.61.119:9004/hls/1/index.m3u8": "2026-08-20",
-    "http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8": "2026-08-20"
+    "http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8": "2026-08-20",
+    "http://175.8.94.35:9909/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-20",
+    "http://60.187.246.137:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-20",
+    "http://220.187.222.240:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-20",
+    "http://47.100.209.208:20002/639731952": "2026-08-20",
+    "http://183.6.80.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0": "2026-08-20",
+    "https://cdn6.cc.cd/163189/wxxwt": "2026-08-20"
 }
