@@ -1,89 +1,121 @@
-✅ [數據讀取] 已從 sources.txt 加載 88 個源
+✅ [數據讀取] 已從 sources.txt 加載 92 個源
 =================================================================
-📅 更新時間：0821 20:36 | 模式：FULL_SCAN
+📅 更新時間：0822 08:56 | 模式：FULL_SCAN
 =================================================================
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~2MGyx659D_aaDPP0qt3NgA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-💀 報告: http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/sE5vO
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://119.166.53.110:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://183.6.80.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://111.59.24.227:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://116.113.73.240:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://222.240.44.42:12810/newlive/live/hls/1/live.m3u8
-💀 報告: http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-   ┣ [源頭掃描] 總台數: 4
-💀 報告: http://120.237.39.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-💀 報告: http://171.38.148.188:9003/hls/39/index.m3u8
-💀 報告: http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-💀 報告: http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 4
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+💀 報告: http://107.150.60.122/live/nfws.m3u8
    ┣ [源頭掃描] 總台數: 3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://198.204.228.26/live/nfws.m3u8
+   ┣ [源頭掃描] 總台數: 3
+💀 報告: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [源頭掃描] 總台數: 3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://171.38.148.188:9003/hls/1/index.m3u8
+   ┣ [源頭掃描] 總台數: 3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+💀 報告: http://218.1.138.153:9003/hls/1/index.m3u8
+   ┣ [源頭掃描] 總台數: 5
+💀 報告: http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://183.94.146.79:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://111.59.24.227:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://123.118.55.165:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://183.6.80.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+💀 報告: http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 3
+💀 報告: http://1.28.123.148:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+💀 報告: http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 5
+💀 報告: http://218.13.138.139:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+💀 報告: http://120.198.86.186:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+💀 報告: http://171.38.148.188:9003/hls/39/index.m3u8
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 3
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+💀 報告: http://r.jdshipin.com/LiYdg
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+💀 報告: http://r.jdshipin.com/sE5vO
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [源頭掃描] 總台數: 0
+💀 報告: http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┣ [源頭掃描] 總台數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-   ┣ [源頭掃描] 總台數: 5
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://119.39.9.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-💀 報告: http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-💀 報告: http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+✅ 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 💀 報告: http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┣ [源頭掃描] 總台數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 1 | 唔通數: 4
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 💀 報告: http://120.237.39.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
    ┣ [源頭掃描] 總台數: 5
@@ -93,123 +125,35 @@
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-   ┣ [源頭掃描] 總台數: 3
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
+💀 報告: http://120.198.86.186:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
 💀 報告: https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
-   ┣ [源頭掃描] 總台數: 13
-   ┣ [網絡狀況] 連通數: 1 | 唔通數: 12
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://cdn6.163189.xyz/163189/fhzw
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://cdn.qd.je/163189/fhhk
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://cdn.qd.je/163189/mzt
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/n90gt
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/ZQ4kN
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/GeWKr
-💀 報告: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/CkuBd
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/yDoTN
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/cCCzW
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/0Rp07
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://cdn6.cc.cd/163189/wxxwt
-   ┣ [源頭掃描] 總台數: 6
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 6
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 💀 報告: http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
    ┣ [源頭掃描] 總台數: 5
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/qrfbg
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/qClQf
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://r.jdshipin.com/snhya
+💀 報告: https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+💀 報告: https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+   ┣ [源頭掃描] 總台數: 3
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: http://119.233.255.62:1234/608917627
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-   ┣ [源頭掃描] 總台數: 0
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
    ┣ [源頭掃描] 總台數: 19
-   ┣ [網絡狀況] 連通數: 2 | 唔通數: 17
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+   ┣ [網絡狀況] 連通數: 4 | 唔通數: 15
+   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/snhya
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
@@ -217,23 +161,106 @@
    ┣ [源頭掃描] 總台數: 3
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 3
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://cdn3.indevs.in/stream/tvb/fct/
+💀 報告: http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/cCCzW
    ┣ [源頭掃描] 總台數: 0
    ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+   ┣ [源頭掃描] 總台數: 10
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 10
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+   ┣ [源頭掃描] 總台數: 10
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 10
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://cdn.qd.je/163189/mzt
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://120.198.86.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+💀 報告: http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+💀 報告: http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
    ┣ [源頭掃描] 總台數: 50
    ┣ [網絡狀況] 連通數: 35 | 唔通數: 15
    ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u
-   ┣ [源頭掃描] 總台數: 82
-   ┣ [網絡狀況] 連通數: 14 | 唔通數: 68
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 7 (剔除)
-   ┗ [🚫 黑名單細節]:
-      浙江新聞, 浙江國際, 浙江少兒, 浙江教科, 浙江民生
-      浙江經濟, 浙江錢江
-❌ 錯誤: http://111.8.242.142:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='111.8.242.142', port=9999): Read timed out. (read timeout=10))
-❌ 錯誤: http://111.8.242.127:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0 (HTTPConnectionPool(host='111.8.242.127', port=9999): Read timed out. (read timeout=10))
+💀 報告: http://r.jdshipin.com/n90gt
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/CkuBd
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/GeWKr
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/0Rp07
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/ZQ4kN
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/qClQf
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
+   ┣ [源頭掃描] 總台數: 13
+   ┣ [網絡狀況] 連通數: 2 | 唔通數: 11
+   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://cdn3.indevs.in/stream/tvb/fct/
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://r.jdshipin.com/qrfbg
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
+   ┣ [源頭掃描] 總台數: 112
+   ┣ [網絡狀況] 連通數: 29 | 唔通數: 83
+   ┗ [內容過濾] 中白名單: 9 (採納) | 中黑名單: 0 (剔除)
+💀 報告: http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+   ┣ [源頭掃描] 總台數: 0
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 0
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u
    ┣ [源頭掃描] 總台數: 106
    ┣ [網絡狀況] 連通數: 48 | 唔通數: 58
@@ -241,81 +268,89 @@
    ┗ [🚫 黑名單細節]:
       東森購物2, 東森購物3, MOMO購物1台, MOMO購物2台, Viva 美好購物1台
       Viva 美好購物2台
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
-   ┣ [源頭掃描] 總台數: 124
-   ┣ [網絡狀況] 連通數: 13 | 唔通數: 111
-   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u
+   ┣ [源頭掃描] 總台數: 82
+   ┣ [網絡狀況] 連通數: 14 | 唔通數: 68
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 7 (剔除)
+   ┗ [🚫 黑名單細節]:
+      浙江新聞, 浙江國際, 浙江少兒, 浙江教科, 浙江民生
+      浙江經濟, 浙江錢江
+✅ 報告: https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+   ┣ [源頭掃描] 總台數: 67
+   ┣ [網絡狀況] 連通數: 32 | 唔通數: 35
+   ┗ [內容過濾] 中白名單: 6 (採納) | 中黑名單: 0 (剔除)
 💀 報告: https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
    ┣ [源頭掃描] 總台數: 120
-   ┣ [網絡狀況] 連通數: 44 | 唔通數: 76
+   ┣ [網絡狀況] 連通數: 41 | 唔通數: 79
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
-   ┣ [源頭掃描] 總台數: 112
-   ┣ [網絡狀況] 連通數: 28 | 唔通數: 84
-   ┗ [內容過濾] 中白名單: 9 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://iptv-org.github.io/iptv/countries/cn.m3u
-   ┣ [源頭掃描] 總台數: 141
-   ┣ [網絡狀況] 連通數: 67 | 唔通數: 74
-   ┗ [內容過濾] 中白名單: 33 (採納) | 中黑名單: 1 (剔除)
-   ┗ [🚫 黑名單細節]:
-      CCTV-8K (1080p)
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
+   ┣ [源頭掃描] 總台數: 124
+   ┣ [網絡狀況] 連通數: 12 | 唔通數: 112
+   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u
    ┣ [源頭掃描] 總台數: 151
    ┣ [網絡狀況] 連通數: 20 | 唔通數: 131
    ┗ [內容過濾] 中白名單: 5 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://epg.pw/test_channels_hong_kong.m3u
    ┣ [源頭掃描] 總台數: 75
-   ┣ [網絡狀況] 連通數: 63 | 唔通數: 12
-   ┗ [內容過濾] 中白名單: 40 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 57 | 唔通數: 18
+   ┗ [內容過濾] 中白名單: 35 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://iptv-org.github.io/iptv/countries/cn.m3u
+   ┣ [源頭掃描] 總台數: 141
+   ┣ [網絡狀況] 連通數: 54 | 唔通數: 87
+   ┗ [內容過濾] 中白名單: 24 (採納) | 中黑名單: 1 (剔除)
+   ┗ [🚫 黑名單細節]:
+      CCTV-8K (1080p)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8202506.m3u
    ┣ [源頭掃描] 總台數: 202
-   ┣ [網絡狀況] 連通數: 113 | 唔通數: 89
-   ┗ [內容過濾] 中白名單: 34 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-   ┣ [源頭掃描] 總台數: 69
-   ┣ [網絡狀況] 連通數: 36 | 唔通數: 33
-   ┗ [內容過濾] 中白名單: 8 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 110 | 唔通數: 92
+   ┗ [內容過濾] 中白名單: 36 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202005.m3u
    ┣ [源頭掃描] 總台數: 298
-   ┣ [網絡狀況] 連通數: 32 | 唔通數: 266
+   ┣ [網絡狀況] 連通數: 30 | 唔通數: 268
    ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202003.m3u
+💀 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202003.m3u
    ┣ [源頭掃描] 總台數: 353
-   ┣ [網絡狀況] 連通數: 40 | 唔通數: 313
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
-   ┣ [源頭掃描] 總台數: 487
-   ┣ [網絡狀況] 連通數: 58 | 唔通數: 429
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 37 | 唔通數: 316
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-   ┣ [源頭掃描] 總台數: 486
-   ┣ [網絡狀況] 連通數: 389 | 唔通數: 97
-   ┗ [內容過濾] 中白名單: 29 (採納) | 中黑名單: 28 (剔除)
+   ┣ [源頭掃描] 總台數: 488
+   ┣ [網絡狀況] 連通數: 387 | 唔通數: 101
+   ┗ [內容過濾] 中白名單: 33 (採納) | 中黑名單: 29 (剔除)
    ┗ [🚫 黑名單細節]:
-      湖北衛視, 湖南衛視, 江蘇衛視, 深圳衛視, 浙江教科影視
-      浙江少兒, 浙江休閒台, 浙江公共新聞, 浙江國際, 浙江教科
-      浙江教育, 浙江數碼時代, 浙江新聞, 浙江民生, 浙江民生休閒
-      浙江生活, 浙江留學, 浙江經濟, 浙江經濟生活, 浙江經視
-      浙江遂昌, 浙江錢江, 浙江錢江都市, 浙江錢江頻道, 福建公共
-      福建新聞, 福建旅遊, 福建經濟
+      湖北衛視, 湖南衛視, 江蘇衛視, 深圳衛視, 浙江衛視
+      浙江教科影視, 浙江少兒, 浙江休閒台, 浙江公共新聞, 浙江國際
+      浙江教科, 浙江教育, 浙江數碼時代, 浙江新聞, 浙江民生
+      浙江民生休閒, 浙江生活, 浙江留學, 浙江經濟, 浙江經濟生活
+      浙江經視, 浙江遂昌, 浙江錢江, 浙江錢江都市, 浙江錢江頻道
+      福建公共, 福建新聞, 福建旅遊, 福建經濟
+💀 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
+   ┣ [源頭掃描] 總台數: 487
+   ┣ [網絡狀況] 連通數: 55 | 唔通數: 432
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
-   ┣ [源頭掃描] 總台數: 850
-   ┣ [網絡狀況] 連通數: 676 | 唔通數: 174
-   ┗ [內容過濾] 中白名單: 364 (採納) | 中黑名單: 65 (剔除)
+   ┣ [源頭掃描] 總台數: 995
+   ┣ [網絡狀況] 連通數: 881 | 唔通數: 114
+   ┗ [內容過濾] 中白名單: 433 (採納) | 中黑名單: 89 (剔除)
    ┗ [🚫 黑名單細節]:
       深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
       深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
-      深圳衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
+      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
-      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 浙江衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
+      浙江衛視, 浙江衛視, 浙江衛視, 江蘇衛視, 江蘇衛視
       江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
       江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
-      江蘇衛視, 江蘇衛視, 湖北衛視, 湖北衛視, 湖北衛視
+      江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
+      江蘇衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
       湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
-      湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
+      湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/1300%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88%E3%80%90%E5%85%A8%E9%83%A84k%E8%80%81%E7%94%B5%E8%84%91%E5%88%AB%E7%94%A8%E3%80%91.m3u8
    ┣ [源頭掃描] 總台數: 1298
    ┣ [網絡狀況] 連通數: 23 | 唔通數: 1275
@@ -324,8 +359,8 @@
       福建·龍巖綜合, 福建·龍巖公共, FOX NewsNOW
 ✅ 報告: https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
    ┣ [源頭掃描] 總台數: 1271
-   ┣ [網絡狀況] 連通數: 461 | 唔通數: 810
-   ┗ [內容過濾] 中白名單: 72 (採納) | 中黑名單: 27 (剔除)
+   ┣ [網絡狀況] 連通數: 458 | 唔通數: 813
+   ┗ [內容過濾] 中白名單: 69 (採納) | 中黑名單: 27 (剔除)
    ┗ [🚫 黑名單細節]:
       江蘇衛視4K, 深圳衛視4K, 湖北衛視, 湖南衛視, 江蘇衛視
       浙江衛視, 浙江少兒, 浙江新聞, 浙江國際, 浙江教科
@@ -335,128 +370,128 @@
       福建文體, 福建少兒
 ✅ 報告: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u
    ┣ [源頭掃描] 總台數: 1687
-   ┣ [網絡狀況] 連通數: 1031 | 唔通數: 656
-   ┗ [內容過濾] 中白名單: 166 (採納) | 中黑名單: 138 (剔除)
+   ┣ [網絡狀況] 連通數: 906 | 唔通數: 781
+   ┗ [內容過濾] 中白名單: 114 (採納) | 中黑名單: 125 (剔除)
    ┗ [🚫 黑名單細節]:
-      浙江衛視, 浙江衛視, 湖南衛視, 湖南衛視, 湖南衛視
-      湖南衛視, 湖北衛視, 湖北衛視, 湖北衛視, 湖北衛視
-      湖北衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
-      深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      湖南衛視, 湖南衛視, 湖南衛視, 湖北衛視, 湖北衛視
+      江蘇衛視, 江蘇衛視, 深圳衛視, 深圳衛視, 深圳衛視
       浙江錢江, 浙江錢江, 浙江錢江, 浙江錢江, 浙江錢江都市
       浙江錢江都市, 浙江錢江都市, 浙江錢江都市, 浙江錢江都市, 浙江生活
       浙江經濟生活, 浙江教育, 浙江民生, 浙江民生, 浙江民生
-      浙江新聞, 浙江少兒, 浙江少兒, 浙江少兒, 浙江少兒
-      杭州綜合, 杭州綜合, 杭州明珠, 杭州明珠, 杭州生活
-      杭州生活, 杭州生活, 杭州影視, 浙江教科, 浙江經濟
-      浙江國際, 浙江經視, 浙江民生休閒, 浙江民生休閒, 浙江民生休閒
-      浙江民生休閒, 浙江民生休閒, 浙江數碼時代, 浙江教科影視, 浙江公共新聞
-      浙江休閒台, 浙江遂昌, 江蘇城市, 江蘇影視, 江蘇教育
-      湖南都市, 湖南都市, 湖南都市, 湖南都市, 湖南都市
-      湖南經視, 湖南經視, 湖南經視, 湖南經視, 湖南經視
-      湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電視劇
-      湖南電影, 湖南電影, 湖南愛晚, 湖南教育, 湖南娛樂
-      湖南娛樂, 湖南國際, 湖南國際, 湖南公共, 湖南公共
-      湖南公共, 湖南公共, 湖北綜合, 湖北綜合, 湖北經視
-      湖北經視, 湖北經視, 湖北生活, 湖北生活, 湖北生活
-      湖北生活, 湖北教育, 湖北教育, 湖北教育, 湖北影視
-      湖北影視, 湖北影視, 湖北公共, 湖北壟上, 湖北壟上
-      福建新聞, 福建電視劇, 福建電視劇, 福建電視劇, 福建電視劇
-      福建電視劇, 福建經濟, 福建綜合, 福建綜合, 福建綜合
-      福建綜合, 福建綜合, 福建公共, 福建旅遊, 福建經視
-      福建經視, 福建經視, 福建經視, 福建經視, 福建少兒
-      福建少兒, 福建少兒, 福建少兒, 福建少兒, 浙江少兒
-      浙江少兒, 浙江少兒, 浙江少兒
+      浙江新聞, 浙江少兒, 浙江少兒, 浙江少兒, 杭州綜合
+      杭州綜合, 杭州明珠, 杭州明珠, 杭州生活, 杭州生活
+      杭州生活, 杭州影視, 浙江教科, 浙江經濟, 浙江國際
+      浙江經視, 浙江民生休閒, 浙江民生休閒, 浙江民生休閒, 浙江民生休閒
+      浙江民生休閒, 浙江數碼時代, 浙江教科影視, 浙江公共新聞, 浙江休閒台
+      浙江遂昌, 江蘇城市, 江蘇影視, 江蘇教育, 湖南都市
+      湖南都市, 湖南都市, 湖南都市, 湖南都市, 湖南經視
+      湖南經視, 湖南經視, 湖南經視, 湖南經視, 湖南電視劇
+      湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電視劇, 湖南電影
+      湖南電影, 湖南愛晚, 湖南教育, 湖南娛樂, 湖南娛樂
+      湖南國際, 湖南國際, 湖南公共, 湖南公共, 湖南公共
+      湖南公共, 湖北綜合, 湖北綜合, 湖北經視, 湖北經視
+      湖北經視, 湖北生活, 湖北生活, 湖北生活, 湖北生活
+      湖北教育, 湖北教育, 湖北教育, 湖北影視, 湖北影視
+      湖北影視, 湖北公共, 湖北壟上, 湖北壟上, 福建新聞
+      福建電視劇, 福建電視劇, 福建電視劇, 福建電視劇, 福建經濟
+      福建綜合, 福建綜合, 福建綜合, 福建綜合, 福建綜合
+      福建公共, 福建旅遊, 福建經視, 福建經視, 福建經視
+      福建經視, 福建經視, 福建少兒, 福建少兒, 福建少兒
+      福建少兒, 福建少兒, 浙江少兒, 浙江少兒, 浙江少兒
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/5000%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u
    ┣ [源頭掃描] 總台數: 5181
-   ┣ [網絡狀況] 連通數: 1442 | 唔通數: 3739
+   ┣ [網絡狀況] 連通數: 1427 | 唔通數: 3754
    ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 4 (剔除)
    ┗ [🚫 黑名單細節]:
       浙江 Ⅰ 紹興影視 (576p), 浙江 Ⅰ 紹興綜合 (576p), FOX News Now (720p), Pluto TV FOX Sports (720p)
 ✅ 報告: https://iptv-org.github.io/iptv/index.m3u
-   ┣ [源頭掃描] 總台數: 12800
-   ┣ [網絡狀況] 連通數: 9325 | 唔通數: 3475
-   ┗ [內容過濾] 中白名單: 37 (採納) | 中黑名單: 36 (剔除)
+   ┣ [源頭掃描] 總台數: 12791
+   ┣ [網絡狀況] 連通數: 9354 | 唔通數: 3437
+   ┗ [內容過濾] 中白名單: 31 (採納) | 中黑名單: 38 (剔除)
    ┗ [🚫 黑名單細節]:
       CCTV-8K (1080p), Fox, Fox (576p), FOX 2 San Francisco CA (KTVU) (720p), FOX 11 Green Bay WI (WLUK) (1080p)
       FOX 13 Seattle WA (KCPQ) (720p), FOX 23 Cape Girardeau MO (KBSI-DT1) (720p), Fox 25 Boston (WFXT-TV) (1080p), FOX 25 Oklahoma City OK (KOKH) (1080p), FOX 26 Visalia CA (KMPH) (1080p)
-      FOX 45 Baltimore MD (WBFF) (1080p), Fox Business Network (480p), Fox Deportes (720p), Fox Life (576p), FOX LOCAL Los Angeles
+      FOX 45 Baltimore MD (WBFF) (1080p), Fox Business Network (720p), Fox Deportes (720p), Fox Life (576p), FOX LOCAL Los Angeles
       Fox News Channel (720p), Fox News Radio (720p), Fox Soul (1080p), FOX Sports (1080p), FOX Sports (1080p)
-      Fox Sports (720p), Fox Sports 1 (720p), Fox Sports 2 (720p), FOX Weather (1080p), Fox West (720p)
-      FunBox UHD, La 1 UHD (2160p), LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p), 浙江 Ⅰ 紹興綜合 (576p)
-      浙江國際, 浙江教科, 浙江新聞, 浙江民生, 浙江經濟
-      浙江錢江
+      Fox Sports (720p), Fox Sports (720p), Fox Sports 1 (720p), Fox Sports 2 (720p), FOX Weather (1080p)
+      Fox West (720p), FunBox UHD, La 1 UHD (2160p), LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p)
+      浙江 Ⅰ 紹興綜合 (576p), 浙江國際, 浙江教科, 浙江新聞, 浙江民生
+      浙江經濟, 浙江錢江, 風尚購物 (1080p)
 -----------------------------------------------------------------
-🏁 完工！共處理 195 個頻道
+🏁 完工！共處理 185 個頻道
 >>> 偵測到定時任務：啟動 FULL_SCAN 模式 (全量掃描) <<<
-📅 [定時模式] 全量加載 88 個源
+📅 [定時模式] 全量加載 92 個源
 🚀 開始併發診斷 5 個網絡...
 
 ============================== 【失效追蹤報表】 ==============================
-🟢 [起死回生] | https://raw.githubusercontent.com/Free-TV/IPT... | 偵測到成功通訊，計數歸零。
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://119.166.53.110:9901/tsfile/live/0002_2... | 已死 12 天 | 剩餘  3 天封印
-⏳ [監控中...] | http://112.123.243.37:50085/tsfile/live/0001_... | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://112.30.73.119:229/tsfile/live/0001_1.m... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://222.240.44.42:12810/newlive/live/hls/1... | 已死  5 天 | 剩餘 10 天封印
-⏳ [監控中...] | http://111.8.242.142:9999/tsfile/live/1063_1.... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://111.8.242.127:9999/tsfile/live/1063_1.... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://111.59.24.227:8181/tsfile/live/0001_1.... | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://119.39.9.8:9901/tsfile/live/0001_1.m3u... | 已死  0 天 | 剩餘 15 天封印
-⏳ [監控中...] | http://1.28.123.148:9901/tsfile/live/1024_1.m... | 已死  2 天 | 剩餘 13 天封印
-⏳ [監控中...] | http://116.113.73.240:9901/tsfile/live/1024_1... | 已死  2 天 | 剩餘 13 天封印
-⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1009_1.... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1007_1... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://183.6.80.98:9901/tsfile/live/0019_1.m3... | 已死  1 天 | 剩餘 14 天封印
-⏳ [監控中...] | http://171.38.148.188:9003/hls/39/index.m3u8     | 已死  6 天 | 剩餘  9 天封印
-⏳ [監控中...] | http://47.100.209.208:20002/639731952            | 已死  1 天 | 剩餘 14 天封印
-⏳ [監控中...] | http://120.237.39.10:9901/tsfile/live/1007_1.... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://r.jdshipin.com/sE5vO                      | 已死 10 天 | 剩餘  5 天封印
-⏳ [監控中...] | http://cdn2.163189.xyz/live/gdzj/stream.m3u8     | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1012_1.... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1010_1... | 已死  3 天 | 剩餘 12 天封印
-⏳ [監控中...] | http://47.100.209.208:20002/608917627            | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://119.233.255.62:1234/608917627             | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | https://tencentplaygsm.gztv.com/live/zonghes.... | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | https://tencentplay.gztv.com/live/zonghes.m3u... | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://tencentplay.gztv.com/live/zonghes.m3u8... | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | https://tencentplay.gztv.com/live/zonghes.m3u... | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://r.jdshipin.com/iR6Gq                      | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://r.jdshipin.com/snhya                      | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1012_1... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://120.237.39.10:9901/tsfile/live/1012_1.... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://zmgd.zyrnet.com:8888/hls/110/index.m3u... | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://r.jdshipin.com/cCCzW                      | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://cdn6.163189.xyz/163189/fhzw               | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fhzw    | 已死 13 天 | 剩餘  2 天封印
-⏳ [監控中...] | http://221.7.175.154:8445/tsfile/live/1021_1.... | 已死 12 天 | 剩餘  3 天封印
-⏳ [監控中...] | http://zmgd.zyrnet.com:8888/hls/109/index.m3u... | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://r.jdshipin.com/0Rp07                      | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://php.jdshipin.com:8880/TVOD/iptv.php?id... | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | https://cdn.qd.je/163189/fhhk                    | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://r.jdshipin.com/yDoTN                      | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1103_1.... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | https://cdn3.indevs.in/stream/tvb/fct/           | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://r.jdshipin.com/qClQf                      | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://r.jdshipin.com/qrfbg                      | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://r.jdshipin.com/n90gt                      | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://r.jdshipin.com/GeWKr                      | 已死  8 天 | 剩餘  7 天封印
-⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1000_1.... | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | https://cdn.qd.je/163189/mzt                     | 已死  4 天 | 剩餘 11 天封印
-⏳ [監控中...] | http://r.jdshipin.com/ZQ4kN                      | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | https://cdn6.cc.cd/163189/wxxwt                  | 已死  1 天 | 剩餘 14 天封印
-⏳ [監控中...] | http://r.jdshipin.com/CkuBd                      | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=wxxw    | 已死  9 天 | 剩餘  6 天封印
-⏳ [監控中...] | https://smt.iktv.ddns-ip.net/Smart.php?id=vid... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://111.59.24.227:8181/tsfile/live/0001_1.... | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://112.123.243.37:50085/tsfile/live/0001_... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://218.1.138.153:9003/hls/1/index.m3u8       | 已死 13 天 | 剩餘  2 天封印
+🔴 [初次失效] | http://171.38.148.188:9003/hls/1/index.m3u8      | 始於: 2026-08-22
+🔴 [初次失效] | http://183.94.146.79:9901/tsfile/live/0001_1.... | 始於: 2026-08-22
+⏳ [監控中...] | http://113.90.154.189:9901/tsfile/live/0001_1... | 已死 13 天 | 剩餘  2 天封印
+⏳ [監控中...] | http://221.7.175.154:8445/tsfile/live/1000_1.... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://123.118.55.165:45237/tsfile/live/0001_... | 已死 11 天 | 剩餘  4 天封印
+⏳ [監控中...] | http://123.118.53.84:45237/tsfile/live/0001_1... | 已死  7 天 | 剩餘  8 天封印
+⏳ [監控中...] | http://1.28.123.148:9901/tsfile/live/1024_1.m... | 已死  3 天 | 剩餘 12 天封印
+⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1009_1.... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1007_1... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://183.6.80.98:9901/tsfile/live/0019_1.m3... | 已死  2 天 | 剩餘 13 天封印
+⏳ [監控中...] | http://r.jdshipin.com/sE5vO                      | 已死 11 天 | 剩餘  4 天封印
+⏳ [監控中...] | http://171.38.148.188:9003/hls/39/index.m3u8     | 已死  7 天 | 剩餘  8 天封印
+⏳ [監控中...] | http://120.198.86.186:9901/tsfile/live/1014_1... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1012_1.... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://218.13.138.139:59901/tsfile/live/1003_... | 已死  8 天 | 剩餘  7 天封印
+⏳ [監控中...] | http://r.jdshipin.com/LiYdg                      | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://php.jdshipin.com/PLTV/iptv.php?id=gdty    | 已死  9 天 | 剩餘  6 天封印
+🔴 [初次失效] | http://63.141.230.178:82/gslb/zbdq5.m3u8?id=n... | 始於: 2026-08-22
+🔴 [初次失效] | http://107.150.60.122/live/nfws.m3u8             | 始於: 2026-08-22
+🔴 [初次失效] | http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u... | 始於: 2026-08-22
+🔴 [初次失效] | http://198.204.228.26/live/nfws.m3u8             | 始於: 2026-08-22
+⏳ [監控中...] | https://tencentplaygsm.gztv.com/live/zonghes.... | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://tencentplay.gztv.com/live/zonghes.m3u8... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | https://tencentplay.gztv.com/live/zonghes.m3u... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | https://tencentplay.gztv.com/live/zonghes.m3u... | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://r.jdshipin.com/iR6Gq                      | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://r.jdshipin.com/snhya                      | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1012_1... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://120.237.39.10:9901/tsfile/live/1012_1.... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://zmgd.zyrnet.com:8888/hls/110/index.m3u... | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://120.198.86.186:9901/tsfile/live/1037_1... | 已死 12 天 | 剩餘  3 天封印
+🔴 [初次失效] | http://120.238.84.45:9901/tsfile/live/1007_1.... | 始於: 2026-08-22
+⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1036_1... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://r.jdshipin.com/cCCzW                      | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=fhzw    | 已死 14 天 | 剩餘  1 天封印
+⏳ [監控中...] | http://221.7.175.154:8445/tsfile/live/1021_1.... | 已死 13 天 | 剩餘  2 天封印
+⏳ [監控中...] | http://zmgd.zyrnet.com:8888/hls/109/index.m3u... | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1037_1... | 已死  4 天 | 剩餘 11 天封印
+⏳ [監控中...] | http://r.jdshipin.com/0Rp07                      | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://38.64.72.148/hls/modn/list/4005/chunkl... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://120.198.86.186:9901/tsfile/live/1007_1... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1103_1.... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://r.jdshipin.com/qClQf                      | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://r.jdshipin.com/GeWKr                      | 已死  9 天 | 剩餘  6 天封印
+⏳ [監控中...] | http://120.198.95.220:9901/tsfile/live/1004_1... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://r.jdshipin.com/n90gt                      | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | https://cdn3.indevs.in/stream/tvb/fct/           | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://r.jdshipin.com/qrfbg                      | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://120.238.84.45:9901/tsfile/live/1000_1.... | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | https://cdn.qd.je/163189/mzt                     | 已死  5 天 | 剩餘 10 天封印
+⏳ [監控中...] | http://r.jdshipin.com/ZQ4kN                      | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://r.jdshipin.com/CkuBd                      | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://php.jdshipin.com/TVOD/iptv.php?id=wxxw    | 已死 10 天 | 剩餘  5 天封印
+⏳ [監控中...] | http://38.64.72.148:80/hls/modn/list/2013/chu... | 已死 10 天 | 剩餘  5 天封印
 =============================================================================
 
 💾 檔案已保存: gz_live.m3u
