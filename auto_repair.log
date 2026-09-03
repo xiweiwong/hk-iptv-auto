@@ -1,107 +1,107 @@
 ✅ [數據讀取] 已從 sources.txt 加載 35 個源
 =================================================================
-📅 更新時間：0903 10:40 | 模式：FULL_SCAN
+📅 更新時間：0903 23:40 | 模式：FULL_SCAN
 =================================================================
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
+❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8? (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8 (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
 ❌ 錯誤: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (HTTPConnectionPool(host='2409:8087:8:21::18', port=6610): Max retries exceeded with url: /otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~2MGyx659D_aaDPP0qt3NgA~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND (Caused by NewConnectionError("HTTPConnection(host='2409:8087:8:21::18', port=6610): Failed to establish a new connection: [Errno 101] Network is unreachable")))
-💀 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
+✅ 報告: https://iptv-org.github.io/iptv/countries/hk.m3u
    ┣ [源頭掃描] 總台數: 13
-   ┣ [網絡狀況] 連通數: 1 | 唔通數: 12
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
-   ┣ [源頭掃描] 總台數: 52
-   ┣ [網絡狀況] 連通數: 35 | 唔通數: 17
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
-   ┣ [源頭掃描] 總台數: 5
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 5
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://epg.pw/test_channels_hong_kong.m3u
-   ┣ [源頭掃描] 總台數: 59
-   ┣ [網絡狀況] 連通數: 0 | 唔通數: 59
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
+   ┣ [網絡狀況] 連通數: 2 | 唔通數: 11
+   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u
    ┣ [源頭掃描] 總台數: 19
-   ┣ [網絡狀況] 連通數: 2 | 唔通數: 17
+   ┣ [網絡狀況] 連通數: 4 | 唔通數: 15
+   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_hong_kong.m3u8
+   ┣ [源頭掃描] 總台數: 5
+   ┣ [網絡狀況] 連通數: 1 | 唔通數: 4
+   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://epg.pw/test_channels_hong_kong.m3u
+   ┣ [源頭掃描] 總台數: 54
+   ┣ [網絡狀況] 連通數: 0 | 唔通數: 54
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
+   ┣ [源頭掃描] 總台數: 52
+   ┣ [網絡狀況] 連通數: 36 | 唔通數: 16
+   ┗ [內容過濾] 中白名單: 1 (採納) | 中黑名單: 0 (剔除)
 💀 報告: https://raw.githubusercontent.com/FanMingming/live/main/tv/m3u/ipv6.m3u
    ┣ [源頭掃描] 總台數: 82
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
    ┣ [網絡狀況] 連通數: 14 | 唔通數: 68
-   ┣ [源頭掃描] 總台數: 112
    ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 7 (剔除)
-   ┣ [網絡狀況] 連通數: 19 | 唔通數: 93
    ┗ [🚫 黑名單細節]:
-   ┗ [內容過濾] 中白名單: 3 (採納) | 中黑名單: 0 (剔除)
       浙江新聞, 浙江國際, 浙江少兒, 浙江教科, 浙江民生
       浙江經濟, 浙江錢江
 ✅ 報告: https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u
    ┣ [源頭掃描] 總台數: 106
-   ┣ [網絡狀況] 連通數: 36 | 唔通數: 70
-   ┗ [內容過濾] 中白名單: 12 (採納) | 中黑名單: 6 (剔除)
+   ┣ [網絡狀況] 連通數: 49 | 唔通數: 57
+   ┗ [內容過濾] 中白名單: 21 (採納) | 中黑名單: 6 (剔除)
    ┗ [🚫 黑名單細節]:
       東森購物2, 東森購物3, MOMO購物1台, MOMO購物2台, Viva 美好購物1台
       Viva 美好購物2台
-💀 報告: https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-   ┣ [源頭掃描] 總台數: 120
-   ┣ [網絡狀況] 連通數: 40 | 唔通數: 80
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u
-   ┣ [源頭掃描] 總台數: 151
-   ┣ [網絡狀況] 連通數: 11 | 唔通數: 140
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
    ┣ [源頭掃描] 總台數: 124
-   ┣ [網絡狀況] 連通數: 10 | 唔通數: 114
-   ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
+   ┣ [網絡狀況] 連通數: 14 | 唔通數: 110
+   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-   ┣ [源頭掃描] 總台數: 68
-   ┣ [網絡狀況] 連通數: 34 | 唔通數: 34
-   ┗ [內容過濾] 中白名單: 6 (採納) | 中黑名單: 0 (剔除)
+   ┣ [源頭掃描] 總台數: 67
+   ┣ [網絡狀況] 連通數: 33 | 唔通數: 34
+   ┗ [內容過濾] 中白名單: 7 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-11.m3u
+   ┣ [源頭掃描] 總台數: 112
+   ┣ [網絡狀況] 連通數: 27 | 唔通數: 85
+   ┗ [內容過濾] 中白名單: 8 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u
+   ┣ [源頭掃描] 總台數: 151
+   ┣ [網絡狀況] 連通數: 16 | 唔通數: 135
+   ┗ [內容過濾] 中白名單: 5 (採納) | 中黑名單: 0 (剔除)
+💀 報告: https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+   ┣ [源頭掃描] 總台數: 120
+   ┣ [網絡狀況] 連通數: 42 | 唔通數: 78
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
+✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8202506.m3u
+   ┣ [源頭掃描] 總台數: 202
+   ┣ [網絡狀況] 連通數: 104 | 唔通數: 98
+   ┗ [內容過濾] 中白名單: 35 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://iptv-org.github.io/iptv/countries/cn.m3u
    ┣ [源頭掃描] 總台數: 143
-   ┣ [網絡狀況] 連通數: 64 | 唔通數: 79
+   ┣ [網絡狀況] 連通數: 65 | 唔通數: 78
    ┗ [內容過濾] 中白名單: 32 (採納) | 中黑名單: 1 (剔除)
    ┗ [🚫 黑名單細節]:
       CCTV-8K (1080p)
-✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8202506.m3u
-   ┣ [源頭掃描] 總台數: 202
-   ┣ [網絡狀況] 連通數: 100 | 唔通數: 102
-   ┗ [內容過濾] 中白名單: 29 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202005.m3u
    ┣ [源頭掃描] 總台數: 298
-   ┣ [網絡狀況] 連通數: 30 | 唔通數: 268
+   ┣ [網絡狀況] 連通數: 29 | 唔通數: 269
    ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
-💀 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
-   ┣ [源頭掃描] 總台數: 487
-   ┣ [網絡狀況] 連通數: 57 | 唔通數: 430
-   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96202003.m3u
    ┣ [源頭掃描] 總台數: 353
-   ┣ [網絡狀況] 連通數: 39 | 唔通數: 314
+   ┣ [網絡狀況] 連通數: 38 | 唔通數: 315
    ┗ [內容過濾] 中白名單: 2 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-   ┣ [源頭掃描] 總台數: 540
-   ┣ [網絡狀況] 連通數: 426 | 唔通數: 114
-   ┗ [內容過濾] 中白名單: 21 (採納) | 中黑名單: 36 (剔除)
+   ┣ [源頭掃描] 總台數: 474
+   ┣ [網絡狀況] 連通數: 374 | 唔通數: 100
+   ┗ [內容過濾] 中白名單: 24 (採納) | 中黑名單: 36 (剔除)
    ┗ [🚫 黑名單細節]:
-      湖南衛視, 深圳衛視, 浙江衛視, 浙江教科影視, 浙江少兒
-      浙江休閒台, 浙江公共新聞, 浙江國際, 浙江教科, 浙江教育
-      浙江數碼時代, 浙江新聞, 浙江民生, 浙江民生休閒, 浙江生活
+      湖南衛視, 深圳衛視, 浙江衛視, 福建海峽衛視, 浙江教科影視
+      浙江少兒, 浙江休閒台, 浙江公共新聞, 浙江國際, 浙江教科
+      浙江教育, 浙江新聞, 浙江民生, 浙江民生休閒, 浙江生活
       浙江留學, 浙江經濟, 浙江經濟生活, 浙江經視, 浙江遂昌
       浙江錢江, 浙江錢江都市, 浙江錢江頻道, 福建公共, 福建新聞
       福建旅遊, 福建經濟, 江蘇南京牛首山, 江蘇徐州雲龍湖風景區雲龍山觀景台西, 浙江舟山東極島
       湖南張家界天門山西線玻璃棧道, 湖南張家界寶峯湖, 湖南張家界御筆峯, 湖南張家界水繞四門, 福建武夷山玉女峯
       福建漳州醉美沙灘翡翠灣
+💀 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%A4%96.m3u
+   ┣ [源頭掃描] 總台數: 487
+   ┣ [網絡狀況] 連通數: 59 | 唔通數: 428
+   ┗ [內容過濾] 中白名單: 0 (採納) | 中黑名單: 0 (剔除)
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/1300%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88%E3%80%90%E5%85%A8%E9%83%A84k%E8%80%81%E7%94%B5%E8%84%91%E5%88%AB%E7%94%A8%E3%80%91.m3u8
    ┣ [源頭掃描] 總台數: 1298
    ┣ [網絡狀況] 連通數: 23 | 唔通數: 1275
@@ -110,8 +110,8 @@
       福建·龍巖綜合, 福建·龍巖公共, FOX NewsNOW
 ✅ 報告: https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
    ┣ [源頭掃描] 總台數: 1271
-   ┣ [網絡狀況] 連通數: 381 | 唔通數: 890
-   ┗ [內容過濾] 中白名單: 57 (採納) | 中黑名單: 19 (剔除)
+   ┣ [網絡狀況] 連通數: 362 | 唔通數: 909
+   ┗ [內容過濾] 中白名單: 56 (採納) | 中黑名單: 19 (剔除)
    ┗ [🚫 黑名單細節]:
       江蘇衛視4K, 深圳衛視4K, 浙江衛視, 浙江少兒, 浙江新聞
       浙江國際, 浙江教科, 浙江少兒, 浙江民生, 浙江經濟
@@ -119,62 +119,62 @@
       福建旅遊, 福建經濟, 福建文體, 福建少兒
 ✅ 報告: https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/gd/output/result.m3u
    ┣ [源頭掃描] 總台數: 1619
-   ┣ [網絡狀況] 連通數: 604 | 唔通數: 1015
-   ┗ [內容過濾] 中白名單: 122 (採納) | 中黑名單: 61 (剔除)
+   ┣ [網絡狀況] 連通數: 573 | 唔通數: 1046
+   ┗ [內容過濾] 中白名單: 125 (採納) | 中黑名單: 63 (剔除)
    ┗ [🚫 黑名單細節]:
       浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視, 浙江衛視
       湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視, 湖南衛視
-      湖北衛視, 湖北衛視, 湖北衛視, 江蘇衛視, 江蘇衛視
-      江蘇衛視, 江蘇衛視, 江蘇衛視, 深圳衛視, 深圳衛視
-      深圳衛視, 深圳衛視, 浙江錢江, 浙江錢江都市, 浙江錢江都市
-      浙江生活, 浙江經濟生活, 浙江經濟生活, 浙江教育, 浙江民生
-      浙江民生, 浙江新聞, 浙江新聞, 浙江少兒, 浙江少兒
-      浙江教科, 浙江教科, 浙江經濟, 浙江經濟, 浙江經濟
-      浙江國際, 浙江國際, 浙江經視, 浙江數碼時代, 浙江數碼時代
-      浙江教科影視, 浙江公共新聞, 浙江公共新聞, 浙江休閒台, 浙江遂昌
-      湖南電影, 湖南愛晚, 福建新聞, 福建經濟, 福建公共
-      福建旅遊, 福建旅遊, 福建旅遊, 福建旅遊, 福建海峽衛視
-      福建海峽衛視
+      湖北衛視, 湖北衛視, 江蘇衛視, 江蘇衛視, 江蘇衛視
+      江蘇衛視, 江蘇衛視, 深圳衛視, 深圳衛視, 深圳衛視
+      深圳衛視, 浙江錢江, 浙江生活, 浙江經濟生活, 浙江經濟生活
+      浙江教育, 浙江民生, 浙江民生, 浙江新聞, 浙江新聞
+      浙江少兒, 浙江少兒, 浙江教科, 浙江教科, 浙江經濟
+      浙江經濟, 浙江經濟, 浙江國際, 浙江國際, 浙江經視
+      浙江數碼時代, 浙江數碼時代, 浙江教科影視, 浙江公共新聞, 浙江公共新聞
+      浙江休閒台, 浙江遂昌, 江蘇體育, 江蘇公共, 湖南電影
+      湖南愛晚, 福建新聞, 福建經濟, 福建公共, 福建旅遊
+      福建旅遊, 福建旅遊, 福建旅遊, 福建海峽衛視, 福建海峽衛視
+      福建海峽衛視, 福建海峽衛視, 福建海峽衛視
 ✅ 報告: https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/5000%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u
    ┣ [源頭掃描] 總台數: 5181
-   ┣ [網絡狀況] 連通數: 1428 | 唔通數: 3753
-   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 4 (剔除)
+   ┣ [網絡狀況] 連通數: 1427 | 唔通數: 3754
+   ┗ [內容過濾] 中白名單: 4 (採納) | 中黑名單: 3 (剔除)
    ┗ [🚫 黑名單細節]:
-      浙江 Ⅰ 紹興影視 (576p), 浙江 Ⅰ 紹興綜合 (576p), FOX News Now (720p), Pluto TV FOX Sports (720p)
+      浙江 Ⅰ 紹興綜合 (576p), FOX News Now (720p), Pluto TV FOX Sports (720p)
 ✅ 報告: https://iptv-org.github.io/iptv/index.m3u
    ┣ [源頭掃描] 總台數: 12923
-   ┣ [網絡狀況] 連通數: 9480 | 唔通數: 3443
-   ┗ [內容過濾] 中白名單: 37 (採納) | 中黑名單: 39 (剔除)
+   ┣ [網絡狀況] 連通數: 8562 | 唔通數: 4361
+   ┗ [內容過濾] 中白名單: 39 (採納) | 中黑名單: 37 (剔除)
    ┗ [🚫 黑名單細節]:
       BBC UHD 1 (1080p), BBC UHD 2 (1080p), BBC UHD 3 (720p), BBC UHD 4 (720p), CCTV-8K (1080p)
       Fox, Fox (576p), FOX 2 San Francisco CA (KTVU) (720p), FOX 11 Green Bay WI (WLUK) (1080p), FOX 13 Seattle WA (KCPQ) (720p)
       FOX 23 Cape Girardeau MO (KBSI-DT1) (720p), Fox 25 Boston (WFXT-TV) (1080p), FOX 25 Oklahoma City OK (KOKH) (1080p), FOX 26 Visalia CA (KMPH) (1080p), FOX 45 Baltimore MD (WBFF) (1080p)
-      Fox Deportes (720p), Fox Life (576p), FOX LOCAL Los Angeles, Fox News Channel (720p), Fox News Radio (720p)
-      Fox Soul (1080p), FOX Sports (1080p), FOX Sports (1080p), Fox Sports (720p), Fox Sports 1 (720p)
-      Fox Sports 2 (720p), FOX Weather (1080p), Fox West (720p), FunBox UHD, IRIB UHD (2160p)
-      LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p), 浙江 Ⅰ 紹興綜合 (576p), 浙江國際, 浙江教科
-      浙江新聞, 浙江民生, 浙江經濟, 浙江錢江
+      Fox Deportes (720p), Fox Life (576p), Fox News Channel (720p), Fox News Radio (720p), Fox Soul (1080p)
+      FOX Sports (1080p), FOX Sports (1080p), Fox Sports (720p), Fox Sports 1 (720p), Fox Sports 2 (720p)
+      FOX Weather (1080p), Fox West (720p), FunBox UHD, LiveNOW from FOX (1080p), 浙江 Ⅰ 紹興影視 (720p)
+      浙江 Ⅰ 紹興綜合 (576p), 浙江國際, 浙江教科, 浙江新聞, 浙江民生
+      浙江經濟, 浙江錢江
 -----------------------------------------------------------------
-🏁 完工！共處理 151 個頻道
+🏁 完工！共處理 169 個頻道
 >>> 偵測到定時任務：啟動 FULL_SCAN 模式 (全量掃描) <<<
 📅 [定時模式] 全量加載 35 個源
 🚀 開始併發診斷 5 個網絡...
 
 ============================== 【失效追蹤報表】 ==============================
-⏳ [監控中...] | https://raw.githubusercontent.com/yuanzl77/IP... | 已死 12 天 | 剩餘  3 天封印
-🟢 [起死回生] | https://raw.githubusercontent.com/Free-TV/IPT... | 偵測到成功通訊，計數歸零。
-⏳ [監控中...] | https://epg.pw/test_channels_hong_kong.m3u       | 已死  6 天 | 剩餘  9 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
-⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 11 天 | 剩餘  4 天封印
+⏳ [監控中...] | https://raw.githubusercontent.com/yuanzl77/IP... | 已死 13 天 | 剩餘  2 天封印
+🔴 [初次失效] | https://raw.githubusercontent.com/Free-TV/IPT... | 始於: 2026-09-04
+⏳ [監控中...] | https://epg.pw/test_channels_hong_kong.m3u       | 已死  7 天 | 剩餘  8 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
+⏳ [監控中...] | http://[2409:8087:8:21::18]:6610/otttv.bj.chi... | 已死 12 天 | 剩餘  3 天封印
 =============================================================================
 
 💾 檔案已保存: gz_live.m3u
