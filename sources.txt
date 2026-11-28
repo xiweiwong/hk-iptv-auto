@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u
 # https://raw.githubusercontent.com/wzwl/iptv/master/iptv.m3u
 # https://raw.githubusercontent.com/xyz123/iptv/master/iptv.m3u
 # https://raw.githubusercontent.com/Y-S-K/iptv/master/iptv.m3u
+https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A8202506.m3u
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u
 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/refs/heads/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82022-7.m3u
