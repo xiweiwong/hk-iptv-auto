@@ -171,3 +171,10 @@
 💾 檔案已保存: gz_dxlive.m3u
 💾 檔案已保存: gz_ltlive.m3u
 💾 檔案已保存: gz_gdlive.m3u
+>>> 偵測到手動撳制：啟動 MANUAL_ONLY 模式 <<<
+🚀 [手動模式] 鎖定測試區間，共加載 22 個源
+🚀 開始併發診斷 5 個網絡...
+💾 檔案已保存: gz_live_manual.m3u
+💾 檔案已保存: gz_dxlive_manual.m3u
+💾 檔案已保存: gz_ltlive_manual.m3u
+💾 檔案已保存: gz_gdlive_manual.m3u
