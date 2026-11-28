@@ -1,3 +1,4 @@
 requests
 opencc-python-reimplemented
 tqdm
+m3u8
